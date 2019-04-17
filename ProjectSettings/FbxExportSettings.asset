@@ -5,11 +5,10 @@
         "m_Name": "",
         "m_EditorClassIdentifier": "",
         "Verbose": false,
-        "autoUpdaterEnabled": true,
         "launchAfterInstallation": true,
         "HideSendToUnityMenu": true,
         "BakeAnimation": true,
-        "IntegrationSavePath": "D:\\Program Files (x86)\\ResidentEvil_2_HDRP",
+        "integrationSavePath": "",
         "selectedDCCApp": 0,
         "prefabSavePaths": [
             "."
@@ -23,19 +22,12 @@
         "dccOptionPaths": [],
         "exportModelSettingsSerialize": {
             "exportFormat": 0,
-            "rootMotionTransfer": "",
             "animatedSkinnedMesh": false,
             "mayaCompatibleNaming": true,
             "include": 2,
             "lodLevel": 0,
             "objectPosition": 0,
             "exportUnrendered": true
-        },
-        "convertToPrefabSettingsSerialize": {
-            "exportFormat": 0,
-            "rootMotionTransfer": "",
-            "animatedSkinnedMesh": false,
-            "mayaCompatibleNaming": true
         }
     }
 }
