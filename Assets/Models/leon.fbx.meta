@@ -53,6 +53,8 @@ ModelImporter:
     4300010: Leon_kennedy:leonmesh_11
     4300012: Leon_kennedy:leonmesh_10
     4300014: Leon_kennedy:leonmesh_09
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -65,7 +67,8 @@ ModelImporter:
     resampleCurves: 1
     optimizeGameObjects: 0
     motionNodeName: 
-    rigImportErrors: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Hips' not found\n"
     rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
@@ -73,7 +76,7 @@ ModelImporter:
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
     importConstraints: 0
-    animationCompression: 1
+    animationCompression: 3
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
@@ -105,8 +108,8 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -120,7 +123,52 @@ ModelImporter:
   humanDescription:
     serializedVersion: 2
     human: []
-    skeleton: []
+    skeleton:
+    - name: leon(Clone)
+      parentName: 
+      position: {x: 2.2059698, y: 0, z: 0.7139874}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 2.4305832, y: 2.4305832, z: 2.4305832}
+    - name: Leon_kennedy:leonmesh_16
+      parentName: leon(Clone)
+      position: {x: -0.0000000014071452, y: 0.0048500043, z: -0.031658553}
+      rotation: {x: 1, y: 0, z: -0, w: 0.00000010331604}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leon_kennedy:leonmesh_15
+      parentName: leon(Clone)
+      position: {x: -0.0000000014071452, y: 0.0048500043, z: -0.031658553}
+      rotation: {x: 1, y: 0, z: -0, w: 0.00000010331604}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leon_kennedy:leonmesh_14
+      parentName: leon(Clone)
+      position: {x: -0.0000000014071452, y: 0.0048500043, z: -0.031658553}
+      rotation: {x: 1, y: 0, z: -0, w: 0.00000010331604}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leon_kennedy:leonmesh_13
+      parentName: leon(Clone)
+      position: {x: -0.0000000014071452, y: 0.0048500043, z: -0.031658553}
+      rotation: {x: 1, y: 0, z: -0, w: 0.00000010331604}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leon_kennedy:leonmesh_12
+      parentName: leon(Clone)
+      position: {x: -0.0000000014071452, y: 0.0048500043, z: -0.031658553}
+      rotation: {x: 1, y: 0, z: -0, w: 0.00000010331604}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leon_kennedy:leonmesh_11
+      parentName: leon(Clone)
+      position: {x: -0.0000000014071452, y: 0.0048500043, z: -0.031658553}
+      rotation: {x: 1, y: 0, z: -0, w: 0.00000010331604}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leon_kennedy:leonmesh_10
+      parentName: leon(Clone)
+      position: {x: -0.0000000014071452, y: 0.0048500043, z: -0.031658553}
+      rotation: {x: 1, y: 0, z: -0, w: 0.00000010331604}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leon_kennedy:leonmesh_09
+      parentName: leon(Clone)
+      position: {x: -0.0000000014071452, y: 0.0048500043, z: -0.031658553}
+      rotation: {x: 1, y: 0, z: -0, w: 0.00000010331604}
+      scale: {x: 1, y: 1, z: 1}
     armTwist: 0.5
     foreArmTwist: 0.5
     upperLegTwist: 0.5
@@ -133,7 +181,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 3
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
