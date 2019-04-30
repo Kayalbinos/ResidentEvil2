@@ -8,6 +8,7 @@ public class PlayerController : MonoBehaviour
     public float speed = 6.0f;
     public float jumpSpeed = 8.0f;
     public float gravity = 20.0f;
+    public Animator Anim;
 
     public int Vie = 3;
 
@@ -44,6 +45,14 @@ public class PlayerController : MonoBehaviour
             speed = speedsave;
         }
 
+        if (moveDirection.magnitude != 0)
+        {
+            Anim.SetBool("IsRunning", true);
+
+        }
+        else Anim.SetBool("IsRunning", false);
+
+        
 
         moveDirection.y = moveDirection.y - (gravity * Time.deltaTime);
 
