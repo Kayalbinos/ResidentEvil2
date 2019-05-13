@@ -1,0 +1,337 @@
+fileFormatVersion: 2
+guid: 4a5907a8007e98d4b8bb9ee90c2852ca
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: assiette_terrestre
+    100002: base
+    100004: lampe
+    100006: pCube112
+    100008: pCube112 1
+    100010: pCube116
+    100012: pCube117
+    100014: pCube121
+    100016: pCube121 1
+    100018: pCube124
+    100020: pCube128
+    100022: pCube128 1
+    100024: pCube131
+    100026: pCube131 1
+    100028: pCube132
+    100030: pCube132 1
+    100032: pCube134
+    100034: pCube137
+    100036: pCube140
+    100038: pCube146
+    100040: pCube146 1
+    100042: pCube147
+    100044: pCube147 1
+    100046: pCube148
+    100048: pCube148 1
+    100050: pCube149
+    100052: pCube149 1
+    100054: pCube150
+    100056: pCube150 1
+    100058: pCube151
+    100060: pCube152
+    100062: pCube153
+    100064: pCube154
+    100066: pCube155
+    100068: pCube156
+    100070: pCube157
+    100072: pCylinder11
+    100074: pCylinder19
+    100076: pCylinder20
+    100078: pCylinder22
+    100080: pCylinder23
+    100082: pCylinder25
+    100084: pCylinder26
+    100086: pCylinder27
+    100088: plats_volants
+    100090: railles
+    100092: railles1
+    100094: rajouts
+    100096: rajouts_cheloues
+    100098: rajouts_cheloues1
+    100100: //RootNode
+    100102: self 1
+    100104: self1
+    100106: self2
+    100108: self3
+    400000: assiette_terrestre
+    400002: base
+    400004: lampe
+    400006: pCube112
+    400008: pCube112 1
+    400010: pCube116
+    400012: pCube117
+    400014: pCube121
+    400016: pCube121 1
+    400018: pCube124
+    400020: pCube128
+    400022: pCube128 1
+    400024: pCube131
+    400026: pCube131 1
+    400028: pCube132
+    400030: pCube132 1
+    400032: pCube134
+    400034: pCube137
+    400036: pCube140
+    400038: pCube146
+    400040: pCube146 1
+    400042: pCube147
+    400044: pCube147 1
+    400046: pCube148
+    400048: pCube148 1
+    400050: pCube149
+    400052: pCube149 1
+    400054: pCube150
+    400056: pCube150 1
+    400058: pCube151
+    400060: pCube152
+    400062: pCube153
+    400064: pCube154
+    400066: pCube155
+    400068: pCube156
+    400070: pCube157
+    400072: pCylinder11
+    400074: pCylinder19
+    400076: pCylinder20
+    400078: pCylinder22
+    400080: pCylinder23
+    400082: pCylinder25
+    400084: pCylinder26
+    400086: pCylinder27
+    400088: plats_volants
+    400090: railles
+    400092: railles1
+    400094: rajouts
+    400096: rajouts_cheloues
+    400098: rajouts_cheloues1
+    400100: //RootNode
+    400102: self 1
+    400104: self1
+    400106: self2
+    400108: self3
+    2100000: lambert2
+    2300000: pCube112
+    2300002: pCube112 1
+    2300004: pCube116
+    2300006: pCube117
+    2300008: pCube121
+    2300010: pCube121 1
+    2300012: pCube124
+    2300014: pCube128
+    2300016: pCube128 1
+    2300018: pCube131
+    2300020: pCube131 1
+    2300022: pCube132
+    2300024: pCube132 1
+    2300026: pCube134
+    2300028: pCube137
+    2300030: pCube140
+    2300032: pCube146
+    2300034: pCube146 1
+    2300036: pCube147
+    2300038: pCube147 1
+    2300040: pCube148
+    2300042: pCube148 1
+    2300044: pCube149
+    2300046: pCube149 1
+    2300048: pCube150
+    2300050: pCube150 1
+    2300052: pCube151
+    2300054: pCube152
+    2300056: pCube153
+    2300058: pCube154
+    2300060: pCube155
+    2300062: pCube156
+    2300064: pCube157
+    2300066: pCylinder11
+    2300068: pCylinder19
+    2300070: pCylinder20
+    2300072: pCylinder22
+    2300074: pCylinder23
+    2300076: pCylinder25
+    2300078: pCylinder26
+    2300080: pCylinder27
+    2300082: self 1
+    2300084: self1
+    2300086: self2
+    2300088: self3
+    3300000: pCube112
+    3300002: pCube112 1
+    3300004: pCube116
+    3300006: pCube117
+    3300008: pCube121
+    3300010: pCube121 1
+    3300012: pCube124
+    3300014: pCube128
+    3300016: pCube128 1
+    3300018: pCube131
+    3300020: pCube131 1
+    3300022: pCube132
+    3300024: pCube132 1
+    3300026: pCube134
+    3300028: pCube137
+    3300030: pCube140
+    3300032: pCube146
+    3300034: pCube146 1
+    3300036: pCube147
+    3300038: pCube147 1
+    3300040: pCube148
+    3300042: pCube148 1
+    3300044: pCube149
+    3300046: pCube149 1
+    3300048: pCube150
+    3300050: pCube150 1
+    3300052: pCube151
+    3300054: pCube152
+    3300056: pCube153
+    3300058: pCube154
+    3300060: pCube155
+    3300062: pCube156
+    3300064: pCube157
+    3300066: pCylinder11
+    3300068: pCylinder19
+    3300070: pCylinder20
+    3300072: pCylinder22
+    3300074: pCylinder23
+    3300076: pCylinder25
+    3300078: pCylinder26
+    3300080: pCylinder27
+    3300082: self 1
+    3300084: self1
+    3300086: self2
+    3300088: self3
+    4300000: self
+    4300002: self2
+    4300004: self1
+    4300006: self3
+    4300008: pCube117
+    4300010: pCube116
+    4300012: pCylinder11
+    4300014: pCylinder22
+    4300016: pCube134
+    4300018: pCube137
+    4300020: pCylinder20
+    4300022: pCylinder19
+    4300024: pCylinder23
+    4300026: pCylinder25
+    4300028: pCylinder26
+    4300030: pCylinder27
+    4300032: pCube154
+    4300034: pCube124
+    4300036: pCube155
+    4300038: pCube156
+    4300040: pCube157
+    4300042: pCube128
+    4300044: pCube132
+    4300046: pCube131
+    4300048: pCube146
+    4300050: pCube148
+    4300052: pCube147
+    4300054: pCube128
+    4300056: pCube132
+    4300058: pCube131
+    4300060: pCube146
+    4300062: pCube148
+    4300064: pCube147
+    4300066: pCube121
+    4300068: pCube149
+    4300070: pCube112
+    4300072: pCube150
+    4300074: pCube121
+    4300076: pCube149
+    4300078: pCube112
+    4300080: pCube150
+    4300082: pCube140
+    4300084: pCube151
+    4300086: pCube152
+    4300088: pCube153
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
