@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: d241bd80891d7fd4fa0df2d867474432
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Coffre_base
+    100004: Coffre_base 1
+    100006: Coffre_Partie_Superieure
+    100008: Coffre_partie_superieure
+    100010: Coin
+    100012: Coin4
+    100014: Coin5
+    100016: Coin6
+    100018: Coins
+    100020: Fermeture
+    100022: Fermeture 1
+    100024: Fermeture1
+    100026: Fermeture2
+    100028: Fermeture5
+    100030: Fermeture6
+    100032: fermeture_globale
+    100034: pCube1
+    100036: pCube1 1
+    100038: pCube2
+    100040: pCube2 1
+    100042: pCube2 2
+    100044: pCube3
+    100046: pCube3 1
+    100048: pCube3 2
+    100050: Plaque2
+    100052: Plaque3
+    100054: Plaque4
+    100056: Plaque5
+    100058: Plaque_superieur
+    100060: Plaque_superieur1
+    100062: "Plaques_int\xE9rieur_caisse"
+    100064: "Poign\xE9e"
+    100066: "Poign\xE9e 1"
+    100068: "Poign\xE9e 2"
+    100070: "Poign\xE9e1"
+    100072: "Poign\xE9es"
+    400000: //RootNode
+    400002: Coffre_base
+    400004: Coffre_base 1
+    400006: Coffre_Partie_Superieure
+    400008: Coffre_partie_superieure
+    400010: Coin
+    400012: Coin4
+    400014: Coin5
+    400016: Coin6
+    400018: Coins
+    400020: Fermeture
+    400022: Fermeture 1
+    400024: Fermeture1
+    400026: Fermeture2
+    400028: Fermeture5
+    400030: Fermeture6
+    400032: fermeture_globale
+    400034: pCube1
+    400036: pCube1 1
+    400038: pCube2
+    400040: pCube2 1
+    400042: pCube2 2
+    400044: pCube3
+    400046: pCube3 1
+    400048: pCube3 2
+    400050: Plaque2
+    400052: Plaque3
+    400054: Plaque4
+    400056: Plaque5
+    400058: Plaque_superieur
+    400060: Plaque_superieur1
+    400062: "Plaques_int\xE9rieur_caisse"
+    400064: "Poign\xE9e"
+    400066: "Poign\xE9e 1"
+    400068: "Poign\xE9e 2"
+    400070: "Poign\xE9e1"
+    400072: "Poign\xE9es"
+    2100000: lambert1
+    2300000: Coffre_base 1
+    2300002: Coffre_Partie_Superieure
+    2300004: Coin
+    2300006: Coin4
+    2300008: Coin5
+    2300010: Coin6
+    2300012: Fermeture
+    2300014: Fermeture5
+    2300016: Fermeture6
+    2300018: pCube1
+    2300020: pCube1 1
+    2300022: pCube2
+    2300024: pCube2 1
+    2300026: pCube2 2
+    2300028: pCube3
+    2300030: pCube3 1
+    2300032: pCube3 2
+    2300034: Plaque2
+    2300036: Plaque3
+    2300038: Plaque4
+    2300040: Plaque5
+    2300042: Plaque_superieur
+    2300044: Plaque_superieur1
+    2300046: "Poign\xE9e 1"
+    2300048: "Poign\xE9e 2"
+    3300000: Coffre_base 1
+    3300002: Coffre_Partie_Superieure
+    3300004: Coin
+    3300006: Coin4
+    3300008: Coin5
+    3300010: Coin6
+    3300012: Fermeture
+    3300014: Fermeture5
+    3300016: Fermeture6
+    3300018: pCube1
+    3300020: pCube1 1
+    3300022: pCube2
+    3300024: pCube2 1
+    3300026: pCube2 2
+    3300028: pCube3
+    3300030: pCube3 1
+    3300032: pCube3 2
+    3300034: Plaque2
+    3300036: Plaque3
+    3300038: Plaque4
+    3300040: Plaque5
+    3300042: Plaque_superieur
+    3300044: Plaque_superieur1
+    3300046: "Poign\xE9e 1"
+    3300048: "Poign\xE9e 2"
+    4300000: Plaque_superieur1
+    4300002: Plaque_superieur
+    4300004: Coffre_Partie_Superieure
+    4300006: Fermeture
+    4300008: Fermeture5
+    4300010: Fermeture6
+    4300012: Coffre_base
+    4300014: Plaque2
+    4300016: Plaque3
+    4300018: Plaque4
+    4300020: Plaque5
+    4300022: Coin
+    4300024: Coin4
+    4300026: Coin5
+    4300028: Coin6
+    4300030: "Poign\xE9e"
+    4300032: pCube1
+    4300034: "Poign\xE9e"
+    4300036: pCube1
+    4300038: pCube2
+    4300040: pCube3
+    4300042: pCube2
+    4300044: pCube3
+    4300046: pCube2
+    4300048: pCube3
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
