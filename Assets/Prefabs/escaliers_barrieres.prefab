@@ -9,6 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2734849302563474208}
+  - component: {fileID: 5692310859622992602}
   m_Layer: 0
   m_Name: barriere_escaliers:barriere15
   m_TagString: Untagged
@@ -32,6 +33,20 @@ Transform:
   m_Father: {fileID: 2734849302563474228}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!64 &5692310859622992602
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2734849302563313408}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 0}
 --- !u!1 &2734849302563313410
 GameObject:
   m_ObjectHideFlags: 0
@@ -41,6 +56,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2734849302563474210}
+  - component: {fileID: 8341240374725669608}
   m_Layer: 0
   m_Name: barriere_escaliers:barriere14
   m_TagString: Untagged
@@ -64,6 +80,20 @@ Transform:
   m_Father: {fileID: 2734849302563474228}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!64 &8341240374725669608
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2734849302563313410}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 0}
 --- !u!1 &2734849302563313412
 GameObject:
   m_ObjectHideFlags: 0
@@ -73,6 +103,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2734849302563474212}
+  - component: {fileID: 5792829578574188808}
   m_Layer: 0
   m_Name: barriere_escaliers:barriere17
   m_TagString: Untagged
@@ -96,6 +127,20 @@ Transform:
   m_Father: {fileID: 2734849302563474228}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!64 &5792829578574188808
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2734849302563313412}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 0}
 --- !u!1 &2734849302563313414
 GameObject:
   m_ObjectHideFlags: 0
@@ -105,6 +150,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2734849302563474214}
+  - component: {fileID: 3571471093510003371}
   m_Layer: 0
   m_Name: barriere_escaliers:barriere16
   m_TagString: Untagged
@@ -128,6 +174,20 @@ Transform:
   m_Father: {fileID: 2734849302563474228}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!64 &3571471093510003371
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2734849302563313414}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 0}
 --- !u!1 &2734849302563313416
 GameObject:
   m_ObjectHideFlags: 0
@@ -137,6 +197,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2734849302563474216}
+  - component: {fileID: 1658920654205166500}
   m_Layer: 0
   m_Name: barriere_escaliers:barriere19
   m_TagString: Untagged
@@ -160,6 +221,20 @@ Transform:
   m_Father: {fileID: 2734849302563474228}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!64 &1658920654205166500
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2734849302563313416}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 0}
 --- !u!1 &2734849302563313418
 GameObject:
   m_ObjectHideFlags: 0
@@ -169,6 +244,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2734849302563474218}
+  - component: {fileID: 5684192552100670006}
   m_Layer: 0
   m_Name: barriere_escaliers:barriere18
   m_TagString: Untagged
@@ -192,6 +268,20 @@ Transform:
   m_Father: {fileID: 2734849302563474228}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!64 &5684192552100670006
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2734849302563313418}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 0}
 --- !u!1 &2734849302563313420
 GameObject:
   m_ObjectHideFlags: 0
@@ -201,6 +291,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2734849302563474220}
+  - component: {fileID: 6096051488575135508}
   m_Layer: 0
   m_Name: barriere_escaliers:barriere21
   m_TagString: Untagged
@@ -224,6 +315,20 @@ Transform:
   m_Father: {fileID: 2734849302563474228}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!64 &6096051488575135508
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2734849302563313420}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 0}
 --- !u!1 &2734849302563313422
 GameObject:
   m_ObjectHideFlags: 0
@@ -233,6 +338,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2734849302563474222}
+  - component: {fileID: 2363645013788050635}
   m_Layer: 0
   m_Name: barriere_escaliers:barriere20
   m_TagString: Untagged
@@ -256,6 +362,20 @@ Transform:
   m_Father: {fileID: 2734849302563474228}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!64 &2363645013788050635
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2734849302563313422}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 0}
 --- !u!1 &2734849302563313424
 GameObject:
   m_ObjectHideFlags: 0
@@ -265,6 +385,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2734849302563474224}
+  - component: {fileID: 7734219479501425695}
   m_Layer: 0
   m_Name: barriere_escaliers:barriere23
   m_TagString: Untagged
@@ -288,6 +409,20 @@ Transform:
   m_Father: {fileID: 2734849302563474228}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!64 &7734219479501425695
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2734849302563313424}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 0}
 --- !u!1 &2734849302563313426
 GameObject:
   m_ObjectHideFlags: 0
@@ -297,6 +432,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2734849302563474226}
+  - component: {fileID: 1820224289383444351}
   m_Layer: 0
   m_Name: barriere_escaliers:barriere22
   m_TagString: Untagged
@@ -320,6 +456,20 @@ Transform:
   m_Father: {fileID: 2734849302563474228}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!64 &1820224289383444351
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2734849302563313426}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 0}
 --- !u!1 &2734849302563313428
 GameObject:
   m_ObjectHideFlags: 0
@@ -329,6 +479,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2734849302563474228}
+  - component: {fileID: 8687018138877551548}
   m_Layer: 0
   m_Name: barriere_escaliers:gwoupe_barriere
   m_TagString: Untagged
@@ -360,6 +511,20 @@ Transform:
   m_Father: {fileID: 2734849302563474282}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!64 &8687018138877551548
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2734849302563313428}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 0}
 --- !u!1 &2734849302563313430
 GameObject:
   m_ObjectHideFlags: 0
@@ -369,6 +534,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2734849302563474230}
+  - component: {fileID: 4185699303004172972}
   m_Layer: 0
   m_Name: barriere_escaliers:barriere_soutien
   m_TagString: Untagged
@@ -394,6 +560,20 @@ Transform:
   m_Father: {fileID: 2734849302563474282}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!64 &4185699303004172972
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2734849302563313430}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 0}
 --- !u!1 &2734849302563313432
 GameObject:
   m_ObjectHideFlags: 0
@@ -405,6 +585,7 @@ GameObject:
   - component: {fileID: 2734849302563474232}
   - component: {fileID: 2734849302566341376}
   - component: {fileID: 2734849302565243328}
+  - component: {fileID: 6508147416196506836}
   m_Layer: 0
   m_Name: barriere_escaliers:pCube26 1
   m_TagString: Untagged
@@ -471,6 +652,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!64 &6508147416196506836
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2734849302563313432}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 4300014, guid: 2f462c6ae46f3c044836010b58199392, type: 3}
 --- !u!1 &2734849302563313434
 GameObject:
   m_ObjectHideFlags: 0
@@ -482,6 +677,7 @@ GameObject:
   - component: {fileID: 2734849302563474234}
   - component: {fileID: 2734849302566341378}
   - component: {fileID: 2734849302565243330}
+  - component: {fileID: 6505922010170098543}
   m_Layer: 0
   m_Name: barriere_escaliers:pCube26
   m_TagString: Untagged
@@ -548,6 +744,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!64 &6505922010170098543
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2734849302563313434}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 4300010, guid: 2f462c6ae46f3c044836010b58199392, type: 3}
 --- !u!1 &2734849302563313436
 GameObject:
   m_ObjectHideFlags: 0
@@ -559,6 +769,7 @@ GameObject:
   - component: {fileID: 2734849302563474236}
   - component: {fileID: 2734849302566341380}
   - component: {fileID: 2734849302565243332}
+  - component: {fileID: 8465931194557339591}
   m_Layer: 0
   m_Name: barriere_escaliers:pCube26 3
   m_TagString: Untagged
@@ -625,6 +836,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!64 &8465931194557339591
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2734849302563313436}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 4300022, guid: 2f462c6ae46f3c044836010b58199392, type: 3}
 --- !u!1 &2734849302563313438
 GameObject:
   m_ObjectHideFlags: 0
@@ -636,6 +861,7 @@ GameObject:
   - component: {fileID: 2734849302563474238}
   - component: {fileID: 2734849302566341382}
   - component: {fileID: 2734849302565243334}
+  - component: {fileID: 7312031649507216886}
   m_Layer: 0
   m_Name: barriere_escaliers:pCube26 2
   m_TagString: Untagged
@@ -702,6 +928,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!64 &7312031649507216886
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2734849302563313438}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 4300018, guid: 2f462c6ae46f3c044836010b58199392, type: 3}
 --- !u!1 &2734849302563313472
 GameObject:
   m_ObjectHideFlags: 0
@@ -713,6 +953,7 @@ GameObject:
   - component: {fileID: 2734849302563474272}
   - component: {fileID: 2734849302566341480}
   - component: {fileID: 2734849302565243176}
+  - component: {fileID: 875987950098085704}
   m_Layer: 0
   m_Name: barriere_escaliers:pCylinder1 7
   m_TagString: Untagged
@@ -779,6 +1020,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!64 &875987950098085704
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2734849302563313472}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 4300036, guid: 2f462c6ae46f3c044836010b58199392, type: 3}
 --- !u!1 &2734849302563313474
 GameObject:
   m_ObjectHideFlags: 0
@@ -790,6 +1045,7 @@ GameObject:
   - component: {fileID: 2734849302563474274}
   - component: {fileID: 2734849302566341482}
   - component: {fileID: 2734849302565243178}
+  - component: {fileID: 3822549259393967546}
   m_Layer: 0
   m_Name: barriere_escaliers:pCylinder1 6
   m_TagString: Untagged
@@ -856,6 +1112,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!64 &3822549259393967546
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2734849302563313474}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 4300032, guid: 2f462c6ae46f3c044836010b58199392, type: 3}
 --- !u!1 &2734849302563313476
 GameObject:
   m_ObjectHideFlags: 0
@@ -867,6 +1137,7 @@ GameObject:
   - component: {fileID: 2734849302563474276}
   - component: {fileID: 2734849302566341484}
   - component: {fileID: 2734849302565243180}
+  - component: {fileID: 8308997503431057782}
   m_Layer: 0
   m_Name: barriere_escaliers:pCylinder1 9
   m_TagString: Untagged
@@ -933,6 +1204,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!64 &8308997503431057782
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2734849302563313476}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 4300044, guid: 2f462c6ae46f3c044836010b58199392, type: 3}
 --- !u!1 &2734849302563313478
 GameObject:
   m_ObjectHideFlags: 0
@@ -944,6 +1229,7 @@ GameObject:
   - component: {fileID: 2734849302563474278}
   - component: {fileID: 2734849302566341486}
   - component: {fileID: 2734849302565243182}
+  - component: {fileID: 1688994538723787027}
   m_Layer: 0
   m_Name: barriere_escaliers:pCylinder1 8
   m_TagString: Untagged
@@ -1010,6 +1296,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!64 &1688994538723787027
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2734849302563313478}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 4300040, guid: 2f462c6ae46f3c044836010b58199392, type: 3}
 --- !u!1 &2734849302563313482
 GameObject:
   m_ObjectHideFlags: 0
@@ -1053,6 +1353,7 @@ GameObject:
   - component: {fileID: 2734849302563474176}
   - component: {fileID: 2734849302566341384}
   - component: {fileID: 2734849302565243336}
+  - component: {fileID: 9032554549856726816}
   m_Layer: 0
   m_Name: barriere_escaliers:pCube26 5
   m_TagString: Untagged
@@ -1119,6 +1420,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!64 &9032554549856726816
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2734849302563313504}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 4300030, guid: 2f462c6ae46f3c044836010b58199392, type: 3}
 --- !u!1 &2734849302563313506
 GameObject:
   m_ObjectHideFlags: 0
@@ -1130,6 +1445,7 @@ GameObject:
   - component: {fileID: 2734849302563474178}
   - component: {fileID: 2734849302566341386}
   - component: {fileID: 2734849302565243338}
+  - component: {fileID: 9150721143982775554}
   m_Layer: 0
   m_Name: barriere_escaliers:pCube26 4
   m_TagString: Untagged
@@ -1196,6 +1512,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!64 &9150721143982775554
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2734849302563313506}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 4300026, guid: 2f462c6ae46f3c044836010b58199392, type: 3}
 --- !u!1 &2734849302563313508
 GameObject:
   m_ObjectHideFlags: 0
@@ -1207,6 +1537,7 @@ GameObject:
   - component: {fileID: 2734849302563474180}
   - component: {fileID: 2734849302566341388}
   - component: {fileID: 2734849302565243340}
+  - component: {fileID: 232894103746851804}
   m_Layer: 0
   m_Name: barriere_escaliers:pCube26 7
   m_TagString: Untagged
@@ -1273,6 +1604,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!64 &232894103746851804
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2734849302563313508}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 4300038, guid: 2f462c6ae46f3c044836010b58199392, type: 3}
 --- !u!1 &2734849302563313510
 GameObject:
   m_ObjectHideFlags: 0
@@ -1284,6 +1629,7 @@ GameObject:
   - component: {fileID: 2734849302563474182}
   - component: {fileID: 2734849302566341390}
   - component: {fileID: 2734849302565243342}
+  - component: {fileID: 537241604174366856}
   m_Layer: 0
   m_Name: barriere_escaliers:pCube26 6
   m_TagString: Untagged
@@ -1350,6 +1696,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!64 &537241604174366856
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2734849302563313510}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 4300034, guid: 2f462c6ae46f3c044836010b58199392, type: 3}
 --- !u!1 &2734849302563313512
 GameObject:
   m_ObjectHideFlags: 0
@@ -1361,6 +1721,7 @@ GameObject:
   - component: {fileID: 2734849302563474184}
   - component: {fileID: 2734849302566341392}
   - component: {fileID: 2734849302565243344}
+  - component: {fileID: 137810535585934468}
   m_Layer: 0
   m_Name: barriere_escaliers:pCube26 9
   m_TagString: Untagged
@@ -1427,6 +1788,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!64 &137810535585934468
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2734849302563313512}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 4300046, guid: 2f462c6ae46f3c044836010b58199392, type: 3}
 --- !u!1 &2734849302563313514
 GameObject:
   m_ObjectHideFlags: 0
@@ -1438,6 +1813,7 @@ GameObject:
   - component: {fileID: 2734849302563474186}
   - component: {fileID: 2734849302566341394}
   - component: {fileID: 2734849302565243346}
+  - component: {fileID: 3011459598295780554}
   m_Layer: 0
   m_Name: barriere_escaliers:pCube26 8
   m_TagString: Untagged
@@ -1504,6 +1880,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!64 &3011459598295780554
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2734849302563313514}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 4300042, guid: 2f462c6ae46f3c044836010b58199392, type: 3}
 --- !u!1 &2734849302563313516
 GameObject:
   m_ObjectHideFlags: 0
@@ -1515,6 +1905,7 @@ GameObject:
   - component: {fileID: 2734849302563474188}
   - component: {fileID: 2734849302566341396}
   - component: {fileID: 2734849302565243348}
+  - component: {fileID: 2597060362098816540}
   m_Layer: 0
   m_Name: barriere_escaliers:pCube32
   m_TagString: Untagged
@@ -1581,6 +1972,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!64 &2597060362098816540
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2734849302563313516}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 4300002, guid: 2f462c6ae46f3c044836010b58199392, type: 3}
 --- !u!1 &2734849302563313518
 GameObject:
   m_ObjectHideFlags: 0
@@ -1592,6 +1997,7 @@ GameObject:
   - component: {fileID: 2734849302563474190}
   - component: {fileID: 2734849302566341398}
   - component: {fileID: 2734849302565243350}
+  - component: {fileID: 3975954385286464151}
   m_Layer: 0
   m_Name: barriere_escaliers:pCube31
   m_TagString: Untagged
@@ -1658,6 +2064,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!64 &3975954385286464151
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2734849302563313518}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 4300000, guid: 2f462c6ae46f3c044836010b58199392, type: 3}
 --- !u!1 &2734849302563313520
 GameObject:
   m_ObjectHideFlags: 0
@@ -1669,6 +2089,7 @@ GameObject:
   - component: {fileID: 2734849302563474192}
   - component: {fileID: 2734849302566341400}
   - component: {fileID: 2734849302565243352}
+  - component: {fileID: 8175980730224551491}
   m_Layer: 0
   m_Name: barriere_escaliers:pCube60
   m_TagString: Untagged
@@ -1735,6 +2156,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!64 &8175980730224551491
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2734849302563313520}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 4300006, guid: 2f462c6ae46f3c044836010b58199392, type: 3}
 --- !u!1 &2734849302563313522
 GameObject:
   m_ObjectHideFlags: 0
@@ -1746,6 +2181,7 @@ GameObject:
   - component: {fileID: 2734849302563474194}
   - component: {fileID: 2734849302566341402}
   - component: {fileID: 2734849302565243354}
+  - component: {fileID: 7727925683538198589}
   m_Layer: 0
   m_Name: barriere_escaliers:pCube58
   m_TagString: Untagged
@@ -1812,6 +2248,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!64 &7727925683538198589
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2734849302563313522}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 4300004, guid: 2f462c6ae46f3c044836010b58199392, type: 3}
 --- !u!1 &2734849302563313524
 GameObject:
   m_ObjectHideFlags: 0
@@ -1823,6 +2273,7 @@ GameObject:
   - component: {fileID: 2734849302563474196}
   - component: {fileID: 2734849302566341404}
   - component: {fileID: 2734849302565243356}
+  - component: {fileID: 6897435331968869972}
   m_Layer: 0
   m_Name: barriere_escaliers:pCylinder1 1
   m_TagString: Untagged
@@ -1889,6 +2340,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!64 &6897435331968869972
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2734849302563313524}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 4300012, guid: 2f462c6ae46f3c044836010b58199392, type: 3}
 --- !u!1 &2734849302563313526
 GameObject:
   m_ObjectHideFlags: 0
@@ -1900,6 +2365,7 @@ GameObject:
   - component: {fileID: 2734849302563474198}
   - component: {fileID: 2734849302566341406}
   - component: {fileID: 2734849302565243358}
+  - component: {fileID: 6015518212589710660}
   m_Layer: 0
   m_Name: barriere_escaliers:pCylinder1
   m_TagString: Untagged
@@ -1966,6 +2432,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!64 &6015518212589710660
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2734849302563313526}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 4300008, guid: 2f462c6ae46f3c044836010b58199392, type: 3}
 --- !u!1 &2734849302563313528
 GameObject:
   m_ObjectHideFlags: 0
@@ -1977,6 +2457,7 @@ GameObject:
   - component: {fileID: 2734849302563474200}
   - component: {fileID: 2734849302566341472}
   - component: {fileID: 2734849302565243168}
+  - component: {fileID: 6518207554256800619}
   m_Layer: 0
   m_Name: barriere_escaliers:pCylinder1 3
   m_TagString: Untagged
@@ -2043,6 +2524,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!64 &6518207554256800619
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2734849302563313528}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 4300020, guid: 2f462c6ae46f3c044836010b58199392, type: 3}
 --- !u!1 &2734849302563313530
 GameObject:
   m_ObjectHideFlags: 0
@@ -2054,6 +2549,7 @@ GameObject:
   - component: {fileID: 2734849302563474202}
   - component: {fileID: 2734849302566341474}
   - component: {fileID: 2734849302565243170}
+  - component: {fileID: 7906179324540388138}
   m_Layer: 0
   m_Name: barriere_escaliers:pCylinder1 2
   m_TagString: Untagged
@@ -2120,6 +2616,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!64 &7906179324540388138
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2734849302563313530}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 4300016, guid: 2f462c6ae46f3c044836010b58199392, type: 3}
 --- !u!1 &2734849302563313532
 GameObject:
   m_ObjectHideFlags: 0
@@ -2131,6 +2641,7 @@ GameObject:
   - component: {fileID: 2734849302563474204}
   - component: {fileID: 2734849302566341476}
   - component: {fileID: 2734849302565243172}
+  - component: {fileID: 1472624890222655907}
   m_Layer: 0
   m_Name: barriere_escaliers:pCylinder1 5
   m_TagString: Untagged
@@ -2197,6 +2708,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!64 &1472624890222655907
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2734849302563313532}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 4300028, guid: 2f462c6ae46f3c044836010b58199392, type: 3}
 --- !u!1 &2734849302563313534
 GameObject:
   m_ObjectHideFlags: 0
@@ -2208,6 +2733,7 @@ GameObject:
   - component: {fileID: 2734849302563474206}
   - component: {fileID: 2734849302566341478}
   - component: {fileID: 2734849302565243174}
+  - component: {fileID: 394350187688671723}
   m_Layer: 0
   m_Name: barriere_escaliers:pCylinder1 4
   m_TagString: Untagged
@@ -2274,3 +2800,17 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!64 &394350187688671723
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2734849302563313534}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 4300024, guid: 2f462c6ae46f3c044836010b58199392, type: 3}

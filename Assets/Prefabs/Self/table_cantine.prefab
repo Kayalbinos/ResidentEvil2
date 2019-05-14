@@ -9,6 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8409346736065768966}
+  - component: {fileID: 201106760394976652}
   m_Layer: 0
   m_Name: table_cantine
   m_TagString: Untagged
@@ -31,6 +32,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+--- !u!65 &201106760394976652
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8409346736065999462}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.4741415, y: 0.7236502, z: 1.4270858}
+  m_Center: {x: -0.010687906, y: 0.36097535, z: -0.007874333}
 --- !u!1001 &5125393322225967414
 PrefabInstance:
   m_ObjectHideFlags: 0
