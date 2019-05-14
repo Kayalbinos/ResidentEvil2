@@ -109,7 +109,7 @@ MonoBehaviour:
     m_OverrideState: 1
     m_Value: 2
   fogType:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 2
 --- !u!114 &114534178494896624
 MonoBehaviour:
