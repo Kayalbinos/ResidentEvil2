@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: a89cd51749d1f624995ed059d15f35b1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: base
+    100002: clavier
+    100004: clavier_fini
+    100006: clavier_fini1
+    100008: clavier_fini2
+    100010: clavier_fini3
+    100012: corde
+    100014: pCube21
+    100016: pCube21 1
+    100018: pCube21 2
+    100020: pCube21 3
+    100022: pCube22
+    100024: pCube22 1
+    100026: pCube22 2
+    100028: pCube22 3
+    100030: pCube23
+    100032: pCube23 1
+    100034: pCube23 2
+    100036: pCube23 3
+    100038: pCube9
+    100040: pCube9 1
+    100042: pCube9 2
+    100044: pCube9 3
+    100046: telephone
+    100048: //RootNode
+    400000: base
+    400002: clavier
+    400004: clavier_fini
+    400006: clavier_fini1
+    400008: clavier_fini2
+    400010: clavier_fini3
+    400012: corde
+    400014: pCube21
+    400016: pCube21 1
+    400018: pCube21 2
+    400020: pCube21 3
+    400022: pCube22
+    400024: pCube22 1
+    400026: pCube22 2
+    400028: pCube22 3
+    400030: pCube23
+    400032: pCube23 1
+    400034: pCube23 2
+    400036: pCube23 3
+    400038: pCube9
+    400040: pCube9 1
+    400042: pCube9 2
+    400044: pCube9 3
+    400046: telephone
+    400048: //RootNode
+    2100000: lambert1
+    2300000: base
+    2300002: corde
+    2300004: pCube21
+    2300006: pCube21 1
+    2300008: pCube21 2
+    2300010: pCube21 3
+    2300012: pCube22
+    2300014: pCube22 1
+    2300016: pCube22 2
+    2300018: pCube22 3
+    2300020: pCube23
+    2300022: pCube23 1
+    2300024: pCube23 2
+    2300026: pCube23 3
+    2300028: pCube9
+    2300030: pCube9 1
+    2300032: pCube9 2
+    2300034: pCube9 3
+    2300036: telephone
+    3300000: base
+    3300002: corde
+    3300004: pCube21
+    3300006: pCube21 1
+    3300008: pCube21 2
+    3300010: pCube21 3
+    3300012: pCube22
+    3300014: pCube22 1
+    3300016: pCube22 2
+    3300018: pCube22 3
+    3300020: pCube23
+    3300022: pCube23 1
+    3300024: pCube23 2
+    3300026: pCube23 3
+    3300028: pCube9
+    3300030: pCube9 1
+    3300032: pCube9 2
+    3300034: pCube9 3
+    3300036: telephone
+    4300000: corde
+    4300002: telephone
+    4300004: pCube23
+    4300006: pCube22
+    4300008: pCube21
+    4300010: pCube9
+    4300012: pCube23
+    4300014: pCube22
+    4300016: pCube21
+    4300018: pCube9
+    4300020: pCube23
+    4300022: pCube22
+    4300024: pCube21
+    4300026: pCube9
+    4300028: pCube23
+    4300030: pCube22
+    4300032: pCube21
+    4300034: pCube9
+    4300036: base
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

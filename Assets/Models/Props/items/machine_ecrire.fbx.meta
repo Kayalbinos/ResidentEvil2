@@ -1,0 +1,1167 @@
+fileFormatVersion: 2
+guid: 42562f415ac0489438f17e531dac44bc
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: accordeon
+    100002: accordeon_un
+    100004: accordeon_un1
+    100006: appuies
+    100008: arriere
+    100010: boule_arriere
+    100012: corps
+    100014: corps 1
+    100016: cote_machine
+    100018: cote_machine1
+    100020: Machine_a_ecrire_cote_machine_cote_machine
+    100022: //RootNode
+    100024: pCube101
+    100026: pCube102
+    100028: pCube103
+    100030: pCube104
+    100032: pCube112
+    100034: pCube112 1
+    100036: pCube113
+    100038: pCube113 1
+    100040: pCube114
+    100042: pCube114 1
+    100044: pCube115
+    100046: pCube115 1
+    100048: pCube116
+    100050: pCube116 1
+    100052: pCube117
+    100054: pCube118
+    100056: pCube118 1
+    100058: pCube120
+    100060: pCube121
+    100062: pCube123
+    100064: pCube123 1
+    100066: pCube123 2
+    100068: pCube123 3
+    100070: pCube124
+    100072: pCube124 1
+    100074: pCube124 2
+    100076: pCube124 3
+    100078: pCube125
+    100080: pCube126
+    100082: pCube127
+    100084: pCube128
+    100086: pCube129
+    100088: pCube130
+    100090: pCube131
+    100092: pCube132
+    100094: pCube133
+    100096: pCube134
+    100098: pCube135
+    100100: pCube136
+    100102: pCube137
+    100104: pCube138
+    100106: pCube139
+    100108: pCube140
+    100110: pCube140 1
+    100112: pCube140 2
+    100114: pCube140 3
+    100116: pCube140 4
+    100118: pCube141
+    100120: pCube141 1
+    100122: pCube141 2
+    100124: pCube141 3
+    100126: pCube141 4
+    100128: pCube142
+    100130: pCube142 1
+    100132: pCube142 2
+    100134: pCube142 3
+    100136: pCube142 4
+    100138: pCube143
+    100140: pCube143 1
+    100142: pCube143 2
+    100144: pCube143 3
+    100146: pCube143 4
+    100148: pCube144
+    100150: pCube144 1
+    100152: pCube144 2
+    100154: pCube144 3
+    100156: pCube144 4
+    100158: pCube145
+    100160: pCube145 1
+    100162: pCube145 2
+    100164: pCube145 3
+    100166: pCube145 4
+    100168: pCube146
+    100170: pCube146 1
+    100172: pCube146 2
+    100174: pCube146 3
+    100176: pCube146 4
+    100178: pCube147
+    100180: pCube147 1
+    100182: pCube147 2
+    100184: pCube147 3
+    100186: pCube147 4
+    100188: pCube148
+    100190: pCube148 1
+    100192: pCube148 2
+    100194: pCube148 3
+    100196: pCube148 4
+    100198: pCube150
+    100200: pCube150 1
+    100202: pCube150 2
+    100204: pCube150 3
+    100206: pCube151
+    100208: pCube152
+    100210: pCube152 1
+    100212: pCube153
+    100214: pCube153 1
+    100216: pCube154
+    100218: pCube154 1
+    100220: pCube155
+    100222: pCube155 1
+    100224: pCube156
+    100226: pCube156 1
+    100228: pCube157
+    100230: pCube157 1
+    100232: pCube158
+    100234: pCube158 1
+    100236: pCube159
+    100238: pCube159 1
+    100240: pCube160
+    100242: pCube160 1
+    100244: pCube161
+    100246: pCube161 1
+    100248: pCube162
+    100250: pCube162 1
+    100252: pCube163
+    100254: pCube163 1
+    100256: pCube30
+    100258: pCube31
+    100260: pCube4
+    100262: pCube4 1
+    100264: pCube91
+    100266: pCube91 1
+    100268: pCube91 2
+    100270: pCube91 3
+    100272: pCube91 4
+    100274: pCylinder10
+    100276: pCylinder11
+    100278: pCylinder15
+    100280: pCylinder17
+    100282: pCylinder17 1
+    100284: pCylinder19
+    100286: pCylinder19 1
+    100288: pCylinder2
+    100290: pCylinder20
+    100292: pCylinder20 1
+    100294: pCylinder21
+    100296: pCylinder23
+    100298: pCylinder24
+    100300: pCylinder25
+    100302: pCylinder4
+    100304: pCylinder6
+    100306: pCylinder9
+    100308: petites_tiges
+    100310: petits_rajouts
+    100312: polySurface1
+    100314: polySurface2
+    100316: popier
+    100318: pPipe1
+    100320: pPipe2
+    100322: pSphere1
+    100324: pSphere2
+    100326: pSphere3
+    100328: pSphere4
+    100330: rajouts
+    100332: rajouts1
+    100334: rajouts5
+    100336: rajouts6
+    100338: rajouts7
+    100340: rajouts_de_larriere
+    100342: rajouts_du_centre
+    100344: rouleau
+    100346: support
+    100348: support1
+    100350: support2
+    100352: support3
+    100354: support4
+    100356: supports_des_touches
+    100358: touche_clavier_uv
+    100360: touche_clavier_uv 1
+    100362: touche_clavier_uv 2
+    100364: touche_clavier_uv 3
+    100366: touche_clavier_uv 4
+    100368: touche_clavier_uv1
+    100370: touche_clavier_uv1 1
+    100372: touche_clavier_uv1 2
+    100374: touche_clavier_uv1 3
+    100376: touche_clavier_uv1 4
+    100378: touche_clavier_uv2
+    100380: touche_clavier_uv2 1
+    100382: touche_clavier_uv2 2
+    100384: touche_clavier_uv2 3
+    100386: touche_clavier_uv2 4
+    100388: touche_clavier_uv3
+    100390: touche_clavier_uv3 1
+    100392: touche_clavier_uv3 2
+    100394: touche_clavier_uv3 3
+    100396: touche_clavier_uv3 4
+    100398: touche_clavier_uv4
+    100400: touche_clavier_uv4 1
+    100402: touche_clavier_uv4 2
+    100404: touche_clavier_uv4 3
+    100406: touche_clavier_uv4 4
+    100408: touche_clavier_uv5
+    100410: touche_clavier_uv5 1
+    100412: touche_clavier_uv5 2
+    100414: touche_clavier_uv5 3
+    100416: touche_clavier_uv5 4
+    100418: touche_clavier_uv6
+    100420: touche_clavier_uv6 1
+    100422: touche_clavier_uv6 2
+    100424: touche_clavier_uv6 3
+    100426: touche_clavier_uv6 4
+    100428: touche_clavier_uv7
+    100430: touche_clavier_uv7 1
+    100432: touche_clavier_uv7 2
+    100434: touche_clavier_uv7 3
+    100436: touche_clavier_uv7 4
+    100438: touche_clavier_uv8
+    100440: touche_clavier_uv8 1
+    100442: touche_clavier_uv8 2
+    100444: touche_clavier_uv8 3
+    100446: touche_clavier_uv8 4
+    100448: touche_clavier_uv9
+    100450: touche_clavier_uv9 1
+    100452: touche_clavier_uv9 2
+    100454: touche_clavier_uv9 3
+    100456: touche_clavier_uv9 4
+    100458: touches_claviers
+    100460: touches_claviers1
+    100462: touches_claviers2
+    100464: touches_claviers3
+    100466: touches_claviers4
+    100468: touches_de_clavier
+    100470: ventilos_chelous
+    400000: accordeon
+    400002: accordeon_un
+    400004: accordeon_un1
+    400006: appuies
+    400008: arriere
+    400010: boule_arriere
+    400012: corps
+    400014: corps 1
+    400016: cote_machine
+    400018: cote_machine1
+    400020: Machine_a_ecrire_cote_machine_cote_machine
+    400022: //RootNode
+    400024: pCube101
+    400026: pCube102
+    400028: pCube103
+    400030: pCube104
+    400032: pCube112
+    400034: pCube112 1
+    400036: pCube113
+    400038: pCube113 1
+    400040: pCube114
+    400042: pCube114 1
+    400044: pCube115
+    400046: pCube115 1
+    400048: pCube116
+    400050: pCube116 1
+    400052: pCube117
+    400054: pCube118
+    400056: pCube118 1
+    400058: pCube120
+    400060: pCube121
+    400062: pCube123
+    400064: pCube123 1
+    400066: pCube123 2
+    400068: pCube123 3
+    400070: pCube124
+    400072: pCube124 1
+    400074: pCube124 2
+    400076: pCube124 3
+    400078: pCube125
+    400080: pCube126
+    400082: pCube127
+    400084: pCube128
+    400086: pCube129
+    400088: pCube130
+    400090: pCube131
+    400092: pCube132
+    400094: pCube133
+    400096: pCube134
+    400098: pCube135
+    400100: pCube136
+    400102: pCube137
+    400104: pCube138
+    400106: pCube139
+    400108: pCube140
+    400110: pCube140 1
+    400112: pCube140 2
+    400114: pCube140 3
+    400116: pCube140 4
+    400118: pCube141
+    400120: pCube141 1
+    400122: pCube141 2
+    400124: pCube141 3
+    400126: pCube141 4
+    400128: pCube142
+    400130: pCube142 1
+    400132: pCube142 2
+    400134: pCube142 3
+    400136: pCube142 4
+    400138: pCube143
+    400140: pCube143 1
+    400142: pCube143 2
+    400144: pCube143 3
+    400146: pCube143 4
+    400148: pCube144
+    400150: pCube144 1
+    400152: pCube144 2
+    400154: pCube144 3
+    400156: pCube144 4
+    400158: pCube145
+    400160: pCube145 1
+    400162: pCube145 2
+    400164: pCube145 3
+    400166: pCube145 4
+    400168: pCube146
+    400170: pCube146 1
+    400172: pCube146 2
+    400174: pCube146 3
+    400176: pCube146 4
+    400178: pCube147
+    400180: pCube147 1
+    400182: pCube147 2
+    400184: pCube147 3
+    400186: pCube147 4
+    400188: pCube148
+    400190: pCube148 1
+    400192: pCube148 2
+    400194: pCube148 3
+    400196: pCube148 4
+    400198: pCube150
+    400200: pCube150 1
+    400202: pCube150 2
+    400204: pCube150 3
+    400206: pCube151
+    400208: pCube152
+    400210: pCube152 1
+    400212: pCube153
+    400214: pCube153 1
+    400216: pCube154
+    400218: pCube154 1
+    400220: pCube155
+    400222: pCube155 1
+    400224: pCube156
+    400226: pCube156 1
+    400228: pCube157
+    400230: pCube157 1
+    400232: pCube158
+    400234: pCube158 1
+    400236: pCube159
+    400238: pCube159 1
+    400240: pCube160
+    400242: pCube160 1
+    400244: pCube161
+    400246: pCube161 1
+    400248: pCube162
+    400250: pCube162 1
+    400252: pCube163
+    400254: pCube163 1
+    400256: pCube30
+    400258: pCube31
+    400260: pCube4
+    400262: pCube4 1
+    400264: pCube91
+    400266: pCube91 1
+    400268: pCube91 2
+    400270: pCube91 3
+    400272: pCube91 4
+    400274: pCylinder10
+    400276: pCylinder11
+    400278: pCylinder15
+    400280: pCylinder17
+    400282: pCylinder17 1
+    400284: pCylinder19
+    400286: pCylinder19 1
+    400288: pCylinder2
+    400290: pCylinder20
+    400292: pCylinder20 1
+    400294: pCylinder21
+    400296: pCylinder23
+    400298: pCylinder24
+    400300: pCylinder25
+    400302: pCylinder4
+    400304: pCylinder6
+    400306: pCylinder9
+    400308: petites_tiges
+    400310: petits_rajouts
+    400312: polySurface1
+    400314: polySurface2
+    400316: popier
+    400318: pPipe1
+    400320: pPipe2
+    400322: pSphere1
+    400324: pSphere2
+    400326: pSphere3
+    400328: pSphere4
+    400330: rajouts
+    400332: rajouts1
+    400334: rajouts5
+    400336: rajouts6
+    400338: rajouts7
+    400340: rajouts_de_larriere
+    400342: rajouts_du_centre
+    400344: rouleau
+    400346: support
+    400348: support1
+    400350: support2
+    400352: support3
+    400354: support4
+    400356: supports_des_touches
+    400358: touche_clavier_uv
+    400360: touche_clavier_uv 1
+    400362: touche_clavier_uv 2
+    400364: touche_clavier_uv 3
+    400366: touche_clavier_uv 4
+    400368: touche_clavier_uv1
+    400370: touche_clavier_uv1 1
+    400372: touche_clavier_uv1 2
+    400374: touche_clavier_uv1 3
+    400376: touche_clavier_uv1 4
+    400378: touche_clavier_uv2
+    400380: touche_clavier_uv2 1
+    400382: touche_clavier_uv2 2
+    400384: touche_clavier_uv2 3
+    400386: touche_clavier_uv2 4
+    400388: touche_clavier_uv3
+    400390: touche_clavier_uv3 1
+    400392: touche_clavier_uv3 2
+    400394: touche_clavier_uv3 3
+    400396: touche_clavier_uv3 4
+    400398: touche_clavier_uv4
+    400400: touche_clavier_uv4 1
+    400402: touche_clavier_uv4 2
+    400404: touche_clavier_uv4 3
+    400406: touche_clavier_uv4 4
+    400408: touche_clavier_uv5
+    400410: touche_clavier_uv5 1
+    400412: touche_clavier_uv5 2
+    400414: touche_clavier_uv5 3
+    400416: touche_clavier_uv5 4
+    400418: touche_clavier_uv6
+    400420: touche_clavier_uv6 1
+    400422: touche_clavier_uv6 2
+    400424: touche_clavier_uv6 3
+    400426: touche_clavier_uv6 4
+    400428: touche_clavier_uv7
+    400430: touche_clavier_uv7 1
+    400432: touche_clavier_uv7 2
+    400434: touche_clavier_uv7 3
+    400436: touche_clavier_uv7 4
+    400438: touche_clavier_uv8
+    400440: touche_clavier_uv8 1
+    400442: touche_clavier_uv8 2
+    400444: touche_clavier_uv8 3
+    400446: touche_clavier_uv8 4
+    400448: touche_clavier_uv9
+    400450: touche_clavier_uv9 1
+    400452: touche_clavier_uv9 2
+    400454: touche_clavier_uv9 3
+    400456: touche_clavier_uv9 4
+    400458: touches_claviers
+    400460: touches_claviers1
+    400462: touches_claviers2
+    400464: touches_claviers3
+    400466: touches_claviers4
+    400468: touches_de_clavier
+    400470: ventilos_chelous
+    2100000: lambert1
+    2300000: corps 1
+    2300002: pCube101
+    2300004: pCube102
+    2300006: pCube103
+    2300008: pCube104
+    2300010: pCube112
+    2300012: pCube112 1
+    2300014: pCube113
+    2300016: pCube113 1
+    2300018: pCube114
+    2300020: pCube114 1
+    2300022: pCube115
+    2300024: pCube115 1
+    2300026: pCube116
+    2300028: pCube116 1
+    2300030: pCube117
+    2300032: pCube118
+    2300034: pCube118 1
+    2300036: pCube120
+    2300038: pCube121
+    2300040: pCube123
+    2300042: pCube123 1
+    2300044: pCube123 2
+    2300046: pCube123 3
+    2300048: pCube124
+    2300050: pCube124 1
+    2300052: pCube124 2
+    2300054: pCube124 3
+    2300056: pCube125
+    2300058: pCube126
+    2300060: pCube127
+    2300062: pCube128
+    2300064: pCube129
+    2300066: pCube130
+    2300068: pCube131
+    2300070: pCube132
+    2300072: pCube133
+    2300074: pCube134
+    2300076: pCube135
+    2300078: pCube136
+    2300080: pCube137
+    2300082: pCube138
+    2300084: pCube139
+    2300086: pCube140
+    2300088: pCube140 1
+    2300090: pCube140 2
+    2300092: pCube140 3
+    2300094: pCube140 4
+    2300096: pCube141
+    2300098: pCube141 1
+    2300100: pCube141 2
+    2300102: pCube141 3
+    2300104: pCube141 4
+    2300106: pCube142
+    2300108: pCube142 1
+    2300110: pCube142 2
+    2300112: pCube142 3
+    2300114: pCube142 4
+    2300116: pCube143
+    2300118: pCube143 1
+    2300120: pCube143 2
+    2300122: pCube143 3
+    2300124: pCube143 4
+    2300126: pCube144
+    2300128: pCube144 1
+    2300130: pCube144 2
+    2300132: pCube144 3
+    2300134: pCube144 4
+    2300136: pCube145
+    2300138: pCube145 1
+    2300140: pCube145 2
+    2300142: pCube145 3
+    2300144: pCube145 4
+    2300146: pCube146
+    2300148: pCube146 1
+    2300150: pCube146 2
+    2300152: pCube146 3
+    2300154: pCube146 4
+    2300156: pCube147
+    2300158: pCube147 1
+    2300160: pCube147 2
+    2300162: pCube147 3
+    2300164: pCube147 4
+    2300166: pCube148
+    2300168: pCube148 1
+    2300170: pCube148 2
+    2300172: pCube148 3
+    2300174: pCube148 4
+    2300176: pCube150
+    2300178: pCube150 1
+    2300180: pCube150 2
+    2300182: pCube150 3
+    2300184: pCube151
+    2300186: pCube152
+    2300188: pCube152 1
+    2300190: pCube153
+    2300192: pCube153 1
+    2300194: pCube154
+    2300196: pCube154 1
+    2300198: pCube155
+    2300200: pCube155 1
+    2300202: pCube156
+    2300204: pCube156 1
+    2300206: pCube157
+    2300208: pCube157 1
+    2300210: pCube158
+    2300212: pCube158 1
+    2300214: pCube159
+    2300216: pCube159 1
+    2300218: pCube160
+    2300220: pCube160 1
+    2300222: pCube161
+    2300224: pCube161 1
+    2300226: pCube162
+    2300228: pCube162 1
+    2300230: pCube163
+    2300232: pCube163 1
+    2300234: pCube30
+    2300236: pCube31
+    2300238: pCube4
+    2300240: pCube4 1
+    2300242: pCube91
+    2300244: pCube91 1
+    2300246: pCube91 2
+    2300248: pCube91 3
+    2300250: pCube91 4
+    2300252: pCylinder10
+    2300254: pCylinder11
+    2300256: pCylinder15
+    2300258: pCylinder17
+    2300260: pCylinder17 1
+    2300262: pCylinder19
+    2300264: pCylinder19 1
+    2300266: pCylinder2
+    2300268: pCylinder20
+    2300270: pCylinder20 1
+    2300272: pCylinder21
+    2300274: pCylinder23
+    2300276: pCylinder24
+    2300278: pCylinder25
+    2300280: pCylinder4
+    2300282: pCylinder6
+    2300284: pCylinder9
+    2300286: polySurface1
+    2300288: polySurface2
+    2300290: pPipe1
+    2300292: pPipe2
+    2300294: pSphere1
+    2300296: pSphere2
+    2300298: pSphere3
+    2300300: pSphere4
+    2300302: touche_clavier_uv
+    2300304: touche_clavier_uv 1
+    2300306: touche_clavier_uv 2
+    2300308: touche_clavier_uv 3
+    2300310: touche_clavier_uv 4
+    2300312: touche_clavier_uv1
+    2300314: touche_clavier_uv1 1
+    2300316: touche_clavier_uv1 2
+    2300318: touche_clavier_uv1 3
+    2300320: touche_clavier_uv1 4
+    2300322: touche_clavier_uv2
+    2300324: touche_clavier_uv2 1
+    2300326: touche_clavier_uv2 2
+    2300328: touche_clavier_uv2 3
+    2300330: touche_clavier_uv2 4
+    2300332: touche_clavier_uv3
+    2300334: touche_clavier_uv3 1
+    2300336: touche_clavier_uv3 2
+    2300338: touche_clavier_uv3 3
+    2300340: touche_clavier_uv3 4
+    2300342: touche_clavier_uv4
+    2300344: touche_clavier_uv4 1
+    2300346: touche_clavier_uv4 2
+    2300348: touche_clavier_uv4 3
+    2300350: touche_clavier_uv4 4
+    2300352: touche_clavier_uv5
+    2300354: touche_clavier_uv5 1
+    2300356: touche_clavier_uv5 2
+    2300358: touche_clavier_uv5 3
+    2300360: touche_clavier_uv5 4
+    2300362: touche_clavier_uv6
+    2300364: touche_clavier_uv6 1
+    2300366: touche_clavier_uv6 2
+    2300368: touche_clavier_uv6 3
+    2300370: touche_clavier_uv6 4
+    2300372: touche_clavier_uv7
+    2300374: touche_clavier_uv7 1
+    2300376: touche_clavier_uv7 2
+    2300378: touche_clavier_uv7 3
+    2300380: touche_clavier_uv7 4
+    2300382: touche_clavier_uv8
+    2300384: touche_clavier_uv8 1
+    2300386: touche_clavier_uv8 2
+    2300388: touche_clavier_uv8 3
+    2300390: touche_clavier_uv8 4
+    2300392: touche_clavier_uv9
+    2300394: touche_clavier_uv9 1
+    2300396: touche_clavier_uv9 2
+    2300398: touche_clavier_uv9 3
+    2300400: touche_clavier_uv9 4
+    3300000: corps 1
+    3300002: pCube101
+    3300004: pCube102
+    3300006: pCube103
+    3300008: pCube104
+    3300010: pCube112
+    3300012: pCube112 1
+    3300014: pCube113
+    3300016: pCube113 1
+    3300018: pCube114
+    3300020: pCube114 1
+    3300022: pCube115
+    3300024: pCube115 1
+    3300026: pCube116
+    3300028: pCube116 1
+    3300030: pCube117
+    3300032: pCube118
+    3300034: pCube118 1
+    3300036: pCube120
+    3300038: pCube121
+    3300040: pCube123
+    3300042: pCube123 1
+    3300044: pCube123 2
+    3300046: pCube123 3
+    3300048: pCube124
+    3300050: pCube124 1
+    3300052: pCube124 2
+    3300054: pCube124 3
+    3300056: pCube125
+    3300058: pCube126
+    3300060: pCube127
+    3300062: pCube128
+    3300064: pCube129
+    3300066: pCube130
+    3300068: pCube131
+    3300070: pCube132
+    3300072: pCube133
+    3300074: pCube134
+    3300076: pCube135
+    3300078: pCube136
+    3300080: pCube137
+    3300082: pCube138
+    3300084: pCube139
+    3300086: pCube140
+    3300088: pCube140 1
+    3300090: pCube140 2
+    3300092: pCube140 3
+    3300094: pCube140 4
+    3300096: pCube141
+    3300098: pCube141 1
+    3300100: pCube141 2
+    3300102: pCube141 3
+    3300104: pCube141 4
+    3300106: pCube142
+    3300108: pCube142 1
+    3300110: pCube142 2
+    3300112: pCube142 3
+    3300114: pCube142 4
+    3300116: pCube143
+    3300118: pCube143 1
+    3300120: pCube143 2
+    3300122: pCube143 3
+    3300124: pCube143 4
+    3300126: pCube144
+    3300128: pCube144 1
+    3300130: pCube144 2
+    3300132: pCube144 3
+    3300134: pCube144 4
+    3300136: pCube145
+    3300138: pCube145 1
+    3300140: pCube145 2
+    3300142: pCube145 3
+    3300144: pCube145 4
+    3300146: pCube146
+    3300148: pCube146 1
+    3300150: pCube146 2
+    3300152: pCube146 3
+    3300154: pCube146 4
+    3300156: pCube147
+    3300158: pCube147 1
+    3300160: pCube147 2
+    3300162: pCube147 3
+    3300164: pCube147 4
+    3300166: pCube148
+    3300168: pCube148 1
+    3300170: pCube148 2
+    3300172: pCube148 3
+    3300174: pCube148 4
+    3300176: pCube150
+    3300178: pCube150 1
+    3300180: pCube150 2
+    3300182: pCube150 3
+    3300184: pCube151
+    3300186: pCube152
+    3300188: pCube152 1
+    3300190: pCube153
+    3300192: pCube153 1
+    3300194: pCube154
+    3300196: pCube154 1
+    3300198: pCube155
+    3300200: pCube155 1
+    3300202: pCube156
+    3300204: pCube156 1
+    3300206: pCube157
+    3300208: pCube157 1
+    3300210: pCube158
+    3300212: pCube158 1
+    3300214: pCube159
+    3300216: pCube159 1
+    3300218: pCube160
+    3300220: pCube160 1
+    3300222: pCube161
+    3300224: pCube161 1
+    3300226: pCube162
+    3300228: pCube162 1
+    3300230: pCube163
+    3300232: pCube163 1
+    3300234: pCube30
+    3300236: pCube31
+    3300238: pCube4
+    3300240: pCube4 1
+    3300242: pCube91
+    3300244: pCube91 1
+    3300246: pCube91 2
+    3300248: pCube91 3
+    3300250: pCube91 4
+    3300252: pCylinder10
+    3300254: pCylinder11
+    3300256: pCylinder15
+    3300258: pCylinder17
+    3300260: pCylinder17 1
+    3300262: pCylinder19
+    3300264: pCylinder19 1
+    3300266: pCylinder2
+    3300268: pCylinder20
+    3300270: pCylinder20 1
+    3300272: pCylinder21
+    3300274: pCylinder23
+    3300276: pCylinder24
+    3300278: pCylinder25
+    3300280: pCylinder4
+    3300282: pCylinder6
+    3300284: pCylinder9
+    3300286: polySurface1
+    3300288: polySurface2
+    3300290: pPipe1
+    3300292: pPipe2
+    3300294: pSphere1
+    3300296: pSphere2
+    3300298: pSphere3
+    3300300: pSphere4
+    3300302: touche_clavier_uv
+    3300304: touche_clavier_uv 1
+    3300306: touche_clavier_uv 2
+    3300308: touche_clavier_uv 3
+    3300310: touche_clavier_uv 4
+    3300312: touche_clavier_uv1
+    3300314: touche_clavier_uv1 1
+    3300316: touche_clavier_uv1 2
+    3300318: touche_clavier_uv1 3
+    3300320: touche_clavier_uv1 4
+    3300322: touche_clavier_uv2
+    3300324: touche_clavier_uv2 1
+    3300326: touche_clavier_uv2 2
+    3300328: touche_clavier_uv2 3
+    3300330: touche_clavier_uv2 4
+    3300332: touche_clavier_uv3
+    3300334: touche_clavier_uv3 1
+    3300336: touche_clavier_uv3 2
+    3300338: touche_clavier_uv3 3
+    3300340: touche_clavier_uv3 4
+    3300342: touche_clavier_uv4
+    3300344: touche_clavier_uv4 1
+    3300346: touche_clavier_uv4 2
+    3300348: touche_clavier_uv4 3
+    3300350: touche_clavier_uv4 4
+    3300352: touche_clavier_uv5
+    3300354: touche_clavier_uv5 1
+    3300356: touche_clavier_uv5 2
+    3300358: touche_clavier_uv5 3
+    3300360: touche_clavier_uv5 4
+    3300362: touche_clavier_uv6
+    3300364: touche_clavier_uv6 1
+    3300366: touche_clavier_uv6 2
+    3300368: touche_clavier_uv6 3
+    3300370: touche_clavier_uv6 4
+    3300372: touche_clavier_uv7
+    3300374: touche_clavier_uv7 1
+    3300376: touche_clavier_uv7 2
+    3300378: touche_clavier_uv7 3
+    3300380: touche_clavier_uv7 4
+    3300382: touche_clavier_uv8
+    3300384: touche_clavier_uv8 1
+    3300386: touche_clavier_uv8 2
+    3300388: touche_clavier_uv8 3
+    3300390: touche_clavier_uv8 4
+    3300392: touche_clavier_uv9
+    3300394: touche_clavier_uv9 1
+    3300396: touche_clavier_uv9 2
+    3300398: touche_clavier_uv9 3
+    3300400: touche_clavier_uv9 4
+    4300000: pCube31
+    4300002: pCube131
+    4300004: pCube132
+    4300006: pCube133
+    4300008: pCube134
+    4300010: pCube135
+    4300012: pCube136
+    4300014: pCube137
+    4300016: pCube138
+    4300018: pCube139
+    4300020: pSphere2
+    4300022: pSphere3
+    4300024: pSphere1
+    4300026: pCylinder4
+    4300028: pCylinder10
+    4300030: pCylinder11
+    4300032: pCube163
+    4300034: pCube162
+    4300036: pCube161
+    4300038: pCube160
+    4300040: pCube159
+    4300042: pCube158
+    4300044: pCube157
+    4300046: pCube156
+    4300048: pCube155
+    4300050: pCube154
+    4300052: pCube153
+    4300054: pCube152
+    4300056: pCube4
+    4300058: pCube163
+    4300060: pCube162
+    4300062: pCube161
+    4300064: pCube160
+    4300066: pCube159
+    4300068: pCube158
+    4300070: pCube157
+    4300072: pCube156
+    4300074: pCube155
+    4300076: pCube154
+    4300078: pCube153
+    4300080: pCube152
+    4300082: pCube4
+    4300084: pCylinder15
+    4300086: pCylinder24
+    4300088: corps
+    4300090: pCube30
+    4300092: polySurface2
+    4300094: polySurface1
+    4300096: pCube129
+    4300098: pCube128
+    4300100: pCube130
+    4300102: pCylinder2
+    4300104: pCube103
+    4300106: pCube104
+    4300108: pCylinder23
+    4300110: pCube124
+    4300112: pCube123
+    4300114: pCube150
+    4300116: pCube124
+    4300118: pCube123
+    4300120: pCube150
+    4300122: pCube151
+    4300124: pCube124
+    4300126: pCube123
+    4300128: pCube150
+    4300130: pCube124
+    4300132: pCube123
+    4300134: pCube150
+    4300136: pSphere4
+    4300138: pCylinder21
+    4300140: pCube126
+    4300142: pCube125
+    4300144: pCylinder6
+    4300146: pCylinder9
+    4300148: pCube117
+    4300150: pPipe2
+    4300152: pPipe1
+    4300154: pCylinder25
+    4300156: pCube127
+    4300158: pCube121
+    4300160: pCube120
+    4300162: pCube102
+    4300164: pCube101
+    4300166: pCube112
+    4300168: pCube113
+    4300170: pCube114
+    4300172: pCube115
+    4300174: pCube116
+    4300176: pCylinder17
+    4300178: pCylinder19
+    4300180: pCylinder20
+    4300182: pCube118
+    4300184: pCube112
+    4300186: pCube113
+    4300188: pCube114
+    4300190: pCube115
+    4300192: pCube116
+    4300194: pCylinder17
+    4300196: pCylinder19
+    4300198: pCylinder20
+    4300200: pCube118
+    4300202: touche_clavier_uv
+    4300204: touche_clavier_uv1
+    4300206: touche_clavier_uv2
+    4300208: touche_clavier_uv3
+    4300210: touche_clavier_uv4
+    4300212: touche_clavier_uv5
+    4300214: touche_clavier_uv6
+    4300216: touche_clavier_uv7
+    4300218: touche_clavier_uv8
+    4300220: touche_clavier_uv9
+    4300222: touche_clavier_uv
+    4300224: touche_clavier_uv1
+    4300226: touche_clavier_uv2
+    4300228: touche_clavier_uv3
+    4300230: touche_clavier_uv4
+    4300232: touche_clavier_uv5
+    4300234: touche_clavier_uv6
+    4300236: touche_clavier_uv7
+    4300238: touche_clavier_uv8
+    4300240: touche_clavier_uv9
+    4300242: touche_clavier_uv
+    4300244: touche_clavier_uv1
+    4300246: touche_clavier_uv2
+    4300248: touche_clavier_uv3
+    4300250: touche_clavier_uv4
+    4300252: touche_clavier_uv5
+    4300254: touche_clavier_uv6
+    4300256: touche_clavier_uv7
+    4300258: touche_clavier_uv8
+    4300260: touche_clavier_uv9
+    4300262: touche_clavier_uv
+    4300264: touche_clavier_uv1
+    4300266: touche_clavier_uv2
+    4300268: touche_clavier_uv3
+    4300270: touche_clavier_uv4
+    4300272: touche_clavier_uv5
+    4300274: touche_clavier_uv6
+    4300276: touche_clavier_uv7
+    4300278: touche_clavier_uv8
+    4300280: touche_clavier_uv9
+    4300282: touche_clavier_uv
+    4300284: touche_clavier_uv1
+    4300286: touche_clavier_uv2
+    4300288: touche_clavier_uv3
+    4300290: touche_clavier_uv4
+    4300292: touche_clavier_uv5
+    4300294: touche_clavier_uv6
+    4300296: touche_clavier_uv7
+    4300298: touche_clavier_uv8
+    4300300: touche_clavier_uv9
+    4300302: pCube148
+    4300304: pCube147
+    4300306: pCube146
+    4300308: pCube145
+    4300310: pCube144
+    4300312: pCube143
+    4300314: pCube142
+    4300316: pCube141
+    4300318: pCube140
+    4300320: pCube91
+    4300322: pCube148
+    4300324: pCube147
+    4300326: pCube146
+    4300328: pCube145
+    4300330: pCube144
+    4300332: pCube143
+    4300334: pCube142
+    4300336: pCube141
+    4300338: pCube140
+    4300340: pCube91
+    4300342: pCube148
+    4300344: pCube147
+    4300346: pCube146
+    4300348: pCube145
+    4300350: pCube144
+    4300352: pCube143
+    4300354: pCube142
+    4300356: pCube141
+    4300358: pCube140
+    4300360: pCube91
+    4300362: pCube148
+    4300364: pCube147
+    4300366: pCube146
+    4300368: pCube145
+    4300370: pCube144
+    4300372: pCube143
+    4300374: pCube142
+    4300376: pCube141
+    4300378: pCube140
+    4300380: pCube91
+    4300382: pCube148
+    4300384: pCube147
+    4300386: pCube146
+    4300388: pCube145
+    4300390: pCube144
+    4300392: pCube143
+    4300394: pCube142
+    4300396: pCube141
+    4300398: pCube140
+    4300400: pCube91
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

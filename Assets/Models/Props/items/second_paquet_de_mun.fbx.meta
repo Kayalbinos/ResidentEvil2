@@ -1,0 +1,430 @@
+fileFormatVersion: 2
+guid: 71ad3c590e84507448b940278c5d814d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Balle
+    100002: Balle 1
+    100004: Balle 10
+    100006: Balle 11
+    100008: Balle 12
+    100010: Balle 13
+    100012: Balle 14
+    100014: Balle 15
+    100016: Balle 16
+    100018: Balle 17
+    100020: Balle 18
+    100022: Balle 19
+    100024: Balle 2
+    100026: Balle 20
+    100028: Balle 21
+    100030: Balle 22
+    100032: Balle 23
+    100034: Balle 24
+    100036: Balle 25
+    100038: Balle 3
+    100040: Balle 4
+    100042: Balle 5
+    100044: Balle 6
+    100046: Balle 7
+    100048: Balle 8
+    100050: Balle 9
+    100052: Balle_9mm
+    100054: Balle_9mm51
+    100056: Balle_9mm51 1
+    100058: Balle_9mm51 2
+    100060: Balle_9mm51 3
+    100062: Balle_9mm51 4
+    100064: Balle_9mm52
+    100066: Balle_9mm52 1
+    100068: Balle_9mm52 2
+    100070: Balle_9mm52 3
+    100072: Balle_9mm52 4
+    100074: Balle_9mm53
+    100076: Balle_9mm53 1
+    100078: Balle_9mm53 2
+    100080: Balle_9mm53 3
+    100082: Balle_9mm53 4
+    100084: Balle_9mm54
+    100086: Balle_9mm54 1
+    100088: Balle_9mm54 2
+    100090: Balle_9mm54 3
+    100092: Balle_9mm54 4
+    100094: Balle_9mm55
+    100096: Balle_9mm55 1
+    100098: Balle_9mm55 2
+    100100: Balle_9mm55 3
+    100102: Balle_9mm55 4
+    100104: Boite_de_munition3
+    100106: boite_et_composants
+    100108: Boite_Interieur
+    100110: Douille
+    100112: Douille 1
+    100114: Douille 10
+    100116: Douille 11
+    100118: Douille 12
+    100120: Douille 13
+    100122: Douille 14
+    100124: Douille 15
+    100126: Douille 16
+    100128: Douille 17
+    100130: Douille 18
+    100132: Douille 19
+    100134: Douille 2
+    100136: Douille 20
+    100138: Douille 21
+    100140: Douille 22
+    100142: Douille 23
+    100144: Douille 24
+    100146: Douille 25
+    100148: Douille 3
+    100150: Douille 4
+    100152: Douille 5
+    100154: Douille 6
+    100156: Douille 7
+    100158: Douille 8
+    100160: Douille 9
+    100162: munitions_internes
+    100164: "rang\xE9e"
+    100166: "rang\xE9e1"
+    100168: "rang\xE9e2"
+    100170: "rang\xE9e3"
+    100172: "rang\xE9e4"
+    100174: //RootNode
+    400000: Balle
+    400002: Balle 1
+    400004: Balle 10
+    400006: Balle 11
+    400008: Balle 12
+    400010: Balle 13
+    400012: Balle 14
+    400014: Balle 15
+    400016: Balle 16
+    400018: Balle 17
+    400020: Balle 18
+    400022: Balle 19
+    400024: Balle 2
+    400026: Balle 20
+    400028: Balle 21
+    400030: Balle 22
+    400032: Balle 23
+    400034: Balle 24
+    400036: Balle 25
+    400038: Balle 3
+    400040: Balle 4
+    400042: Balle 5
+    400044: Balle 6
+    400046: Balle 7
+    400048: Balle 8
+    400050: Balle 9
+    400052: Balle_9mm
+    400054: Balle_9mm51
+    400056: Balle_9mm51 1
+    400058: Balle_9mm51 2
+    400060: Balle_9mm51 3
+    400062: Balle_9mm51 4
+    400064: Balle_9mm52
+    400066: Balle_9mm52 1
+    400068: Balle_9mm52 2
+    400070: Balle_9mm52 3
+    400072: Balle_9mm52 4
+    400074: Balle_9mm53
+    400076: Balle_9mm53 1
+    400078: Balle_9mm53 2
+    400080: Balle_9mm53 3
+    400082: Balle_9mm53 4
+    400084: Balle_9mm54
+    400086: Balle_9mm54 1
+    400088: Balle_9mm54 2
+    400090: Balle_9mm54 3
+    400092: Balle_9mm54 4
+    400094: Balle_9mm55
+    400096: Balle_9mm55 1
+    400098: Balle_9mm55 2
+    400100: Balle_9mm55 3
+    400102: Balle_9mm55 4
+    400104: Boite_de_munition3
+    400106: boite_et_composants
+    400108: Boite_Interieur
+    400110: Douille
+    400112: Douille 1
+    400114: Douille 10
+    400116: Douille 11
+    400118: Douille 12
+    400120: Douille 13
+    400122: Douille 14
+    400124: Douille 15
+    400126: Douille 16
+    400128: Douille 17
+    400130: Douille 18
+    400132: Douille 19
+    400134: Douille 2
+    400136: Douille 20
+    400138: Douille 21
+    400140: Douille 22
+    400142: Douille 23
+    400144: Douille 24
+    400146: Douille 25
+    400148: Douille 3
+    400150: Douille 4
+    400152: Douille 5
+    400154: Douille 6
+    400156: Douille 7
+    400158: Douille 8
+    400160: Douille 9
+    400162: munitions_internes
+    400164: "rang\xE9e"
+    400166: "rang\xE9e1"
+    400168: "rang\xE9e2"
+    400170: "rang\xE9e3"
+    400172: "rang\xE9e4"
+    400174: //RootNode
+    2100000: lambert1
+    2300000: Balle
+    2300002: Balle 1
+    2300004: Balle 10
+    2300006: Balle 11
+    2300008: Balle 12
+    2300010: Balle 13
+    2300012: Balle 14
+    2300014: Balle 15
+    2300016: Balle 16
+    2300018: Balle 17
+    2300020: Balle 18
+    2300022: Balle 19
+    2300024: Balle 2
+    2300026: Balle 20
+    2300028: Balle 21
+    2300030: Balle 22
+    2300032: Balle 23
+    2300034: Balle 24
+    2300036: Balle 25
+    2300038: Balle 3
+    2300040: Balle 4
+    2300042: Balle 5
+    2300044: Balle 6
+    2300046: Balle 7
+    2300048: Balle 8
+    2300050: Balle 9
+    2300052: Boite_de_munition3
+    2300054: Boite_Interieur
+    2300056: Douille
+    2300058: Douille 1
+    2300060: Douille 10
+    2300062: Douille 11
+    2300064: Douille 12
+    2300066: Douille 13
+    2300068: Douille 14
+    2300070: Douille 15
+    2300072: Douille 16
+    2300074: Douille 17
+    2300076: Douille 18
+    2300078: Douille 19
+    2300080: Douille 2
+    2300082: Douille 20
+    2300084: Douille 21
+    2300086: Douille 22
+    2300088: Douille 23
+    2300090: Douille 24
+    2300092: Douille 25
+    2300094: Douille 3
+    2300096: Douille 4
+    2300098: Douille 5
+    2300100: Douille 6
+    2300102: Douille 7
+    2300104: Douille 8
+    2300106: Douille 9
+    3300000: Balle
+    3300002: Balle 1
+    3300004: Balle 10
+    3300006: Balle 11
+    3300008: Balle 12
+    3300010: Balle 13
+    3300012: Balle 14
+    3300014: Balle 15
+    3300016: Balle 16
+    3300018: Balle 17
+    3300020: Balle 18
+    3300022: Balle 19
+    3300024: Balle 2
+    3300026: Balle 20
+    3300028: Balle 21
+    3300030: Balle 22
+    3300032: Balle 23
+    3300034: Balle 24
+    3300036: Balle 25
+    3300038: Balle 3
+    3300040: Balle 4
+    3300042: Balle 5
+    3300044: Balle 6
+    3300046: Balle 7
+    3300048: Balle 8
+    3300050: Balle 9
+    3300052: Boite_de_munition3
+    3300054: Boite_Interieur
+    3300056: Douille
+    3300058: Douille 1
+    3300060: Douille 10
+    3300062: Douille 11
+    3300064: Douille 12
+    3300066: Douille 13
+    3300068: Douille 14
+    3300070: Douille 15
+    3300072: Douille 16
+    3300074: Douille 17
+    3300076: Douille 18
+    3300078: Douille 19
+    3300080: Douille 2
+    3300082: Douille 20
+    3300084: Douille 21
+    3300086: Douille 22
+    3300088: Douille 23
+    3300090: Douille 24
+    3300092: Douille 25
+    3300094: Douille 3
+    3300096: Douille 4
+    3300098: Douille 5
+    3300100: Douille 6
+    3300102: Douille 7
+    3300104: Douille 8
+    3300106: Douille 9
+    4300000: Balle
+    4300002: Douille
+    4300004: Balle
+    4300006: Douille
+    4300008: Balle
+    4300010: Douille
+    4300012: Balle
+    4300014: Douille
+    4300016: Balle
+    4300018: Douille
+    4300020: Balle
+    4300022: Douille
+    4300024: Balle
+    4300026: Douille
+    4300028: Balle
+    4300030: Douille
+    4300032: Balle
+    4300034: Douille
+    4300036: Balle
+    4300038: Douille
+    4300040: Balle
+    4300042: Douille
+    4300044: Balle
+    4300046: Douille
+    4300048: Balle
+    4300050: Douille
+    4300052: Balle
+    4300054: Douille
+    4300056: Balle
+    4300058: Douille
+    4300060: Balle
+    4300062: Douille
+    4300064: Balle
+    4300066: Douille
+    4300068: Balle
+    4300070: Douille
+    4300072: Balle
+    4300074: Douille
+    4300076: Balle
+    4300078: Douille
+    4300080: Balle
+    4300082: Douille
+    4300084: Balle
+    4300086: Douille
+    4300088: Balle
+    4300090: Douille
+    4300092: Balle
+    4300094: Douille
+    4300096: Balle
+    4300098: Douille
+    4300100: Balle
+    4300102: Douille
+    4300104: Boite_Interieur
+    4300106: Boite_de_munition3
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

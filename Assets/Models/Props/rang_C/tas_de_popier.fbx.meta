@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: 8762bc5f229e04e4abdf21070509ff94
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: feuille_de_popier34
+    100002: feuille_de_popier35
+    100004: feuille_de_popier36
+    100006: feuille_de_popier37
+    100008: feuille_de_popier38
+    100010: feuille_de_popier39
+    100012: feuille_de_popier40
+    100014: feuille_de_popier41
+    100016: feuille_de_popier42
+    100018: feuille_de_popier43
+    100020: feuille_de_popier44
+    100022: feuille_de_popier45
+    100024: feuille_de_popier46
+    100026: feuille_de_popier47
+    100028: feuille_de_popier48
+    100030: feuille_de_popier49
+    100032: feuille_de_popier50
+    100034: feuille_de_popier51
+    100036: feuille_de_popier52
+    100038: feuille_de_popier53
+    100040: //RootNode
+    400000: feuille_de_popier34
+    400002: feuille_de_popier35
+    400004: feuille_de_popier36
+    400006: feuille_de_popier37
+    400008: feuille_de_popier38
+    400010: feuille_de_popier39
+    400012: feuille_de_popier40
+    400014: feuille_de_popier41
+    400016: feuille_de_popier42
+    400018: feuille_de_popier43
+    400020: feuille_de_popier44
+    400022: feuille_de_popier45
+    400024: feuille_de_popier46
+    400026: feuille_de_popier47
+    400028: feuille_de_popier48
+    400030: feuille_de_popier49
+    400032: feuille_de_popier50
+    400034: feuille_de_popier51
+    400036: feuille_de_popier52
+    400038: feuille_de_popier53
+    400040: //RootNode
+    2100000: lambert1
+    2300000: feuille_de_popier34
+    2300002: feuille_de_popier35
+    2300004: feuille_de_popier36
+    2300006: feuille_de_popier37
+    2300008: feuille_de_popier38
+    2300010: feuille_de_popier39
+    2300012: feuille_de_popier40
+    2300014: feuille_de_popier41
+    2300016: feuille_de_popier42
+    2300018: feuille_de_popier43
+    2300020: feuille_de_popier44
+    2300022: feuille_de_popier45
+    2300024: feuille_de_popier46
+    2300026: feuille_de_popier47
+    2300028: feuille_de_popier48
+    2300030: feuille_de_popier49
+    2300032: feuille_de_popier50
+    2300034: feuille_de_popier51
+    2300036: feuille_de_popier52
+    2300038: feuille_de_popier53
+    3300000: feuille_de_popier34
+    3300002: feuille_de_popier35
+    3300004: feuille_de_popier36
+    3300006: feuille_de_popier37
+    3300008: feuille_de_popier38
+    3300010: feuille_de_popier39
+    3300012: feuille_de_popier40
+    3300014: feuille_de_popier41
+    3300016: feuille_de_popier42
+    3300018: feuille_de_popier43
+    3300020: feuille_de_popier44
+    3300022: feuille_de_popier45
+    3300024: feuille_de_popier46
+    3300026: feuille_de_popier47
+    3300028: feuille_de_popier48
+    3300030: feuille_de_popier49
+    3300032: feuille_de_popier50
+    3300034: feuille_de_popier51
+    3300036: feuille_de_popier52
+    3300038: feuille_de_popier53
+    4300000: feuille_de_popier34
+    4300002: feuille_de_popier35
+    4300004: feuille_de_popier36
+    4300006: feuille_de_popier37
+    4300008: feuille_de_popier38
+    4300010: feuille_de_popier39
+    4300012: feuille_de_popier40
+    4300014: feuille_de_popier41
+    4300016: feuille_de_popier42
+    4300018: feuille_de_popier43
+    4300020: feuille_de_popier44
+    4300022: feuille_de_popier45
+    4300024: feuille_de_popier46
+    4300026: feuille_de_popier47
+    4300028: feuille_de_popier48
+    4300030: feuille_de_popier49
+    4300032: feuille_de_popier50
+    4300034: feuille_de_popier51
+    4300036: feuille_de_popier52
+    4300038: feuille_de_popier53
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
