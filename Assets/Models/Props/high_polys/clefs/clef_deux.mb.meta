@@ -3,6 +3,58 @@ guid: f6ac91b2b83d1fc47b3854b176cd6e64
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
+    100000: //RootNode
+    100002: clef_deux
+    100004: clef_deux_decimated1:Group53134
+    100006: pCube10
+    100008: pCube11
+    100010: pCube12
+    100012: pCube4
+    100014: pCylinder2
+    100016: polySurface1
+    100018: polySurface2
+    100020: polySurface3
+    100022: polySurface5
+    100024: transform1
+    100026: transform2
+    400000: //RootNode
+    400002: clef_deux
+    400004: clef_deux_decimated1:Group53134
+    400006: pCube10
+    400008: pCube11
+    400010: pCube12
+    400012: pCube4
+    400014: pCylinder2
+    400016: polySurface1
+    400018: polySurface2
+    400020: polySurface3
+    400022: polySurface5
+    400024: transform1
+    400026: transform2
+    2100000: aiStandardSurface1
+    2100002: lambert1
+    2300000: clef_deux_decimated1:Group53134
+    2300002: pCube11
+    2300004: pCube12
+    2300006: pCube4
+    2300008: pCylinder2
+    2300010: polySurface2
+    2300012: polySurface5
+    3300000: clef_deux_decimated1:Group53134
+    3300002: pCube11
+    3300004: pCube12
+    3300006: pCube4
+    3300008: pCylinder2
+    3300010: polySurface2
+    3300012: polySurface5
+    4300000: pCylinder2
+    4300002: polySurface2
+    4300004: pCube11
+    4300006: pCube12
+    4300008: pCube4
+    4300010: polySurface5
+    4300012: clef_deux_decimated1:Group53134
+    9500000: //RootNode
     2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
@@ -57,7 +109,7 @@ ModelImporter:
     secondaryUVPackMargin: 4
     useFileScale: 1
     previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0

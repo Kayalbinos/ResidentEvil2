@@ -3,6 +3,134 @@ guid: d11fea11fa821f9468096b02e7a2358a
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
+    100000: corps
+    100002: grands_poteaux
+    100004: haut
+    100006: heure
+    100008: //RootNode
+    100010: horloge
+    100012: horloge2:pCube1horloge
+    100014: leon
+    100016: Leon_kennedy:leonmesh_09
+    100018: Leon_kennedy:leonmesh_10
+    100020: Leon_kennedy:leonmesh_11
+    100022: Leon_kennedy:leonmesh_12
+    100024: Leon_kennedy:leonmesh_13
+    100026: Leon_kennedy:leonmesh_14
+    100028: Leon_kennedy:leonmesh_15
+    100030: Leon_kennedy:leonmesh_16
+    100032: pCube3
+    100034: pCylinder11
+    100036: pCylinder14
+    100038: pCylinder15
+    100040: pCylinder16
+    100042: pCylinder17
+    100044: pCylinder18
+    100046: pCylinder19
+    100048: pCylinder20
+    100050: pCylinder3
+    100052: pendule
+    100054: petites_tiges
+    100056: petits_poteaux
+    400000: corps
+    400002: grands_poteaux
+    400004: haut
+    400006: heure
+    400008: //RootNode
+    400010: horloge
+    400012: horloge2:pCube1horloge
+    400014: leon
+    400016: Leon_kennedy:leonmesh_09
+    400018: Leon_kennedy:leonmesh_10
+    400020: Leon_kennedy:leonmesh_11
+    400022: Leon_kennedy:leonmesh_12
+    400024: Leon_kennedy:leonmesh_13
+    400026: Leon_kennedy:leonmesh_14
+    400028: Leon_kennedy:leonmesh_15
+    400030: Leon_kennedy:leonmesh_16
+    400032: pCube3
+    400034: pCylinder11
+    400036: pCylinder14
+    400038: pCylinder15
+    400040: pCylinder16
+    400042: pCylinder17
+    400044: pCylinder18
+    400046: pCylinder19
+    400048: pCylinder20
+    400050: pCylinder3
+    400052: pendule
+    400054: petites_tiges
+    400056: petits_poteaux
+    2100000: aiStandardSurface1
+    2100002: lambert1
+    2300000: corps
+    2300002: haut
+    2300004: heure
+    2300006: horloge2:pCube1horloge
+    2300008: Leon_kennedy:leonmesh_09
+    2300010: Leon_kennedy:leonmesh_10
+    2300012: Leon_kennedy:leonmesh_11
+    2300014: Leon_kennedy:leonmesh_12
+    2300016: Leon_kennedy:leonmesh_13
+    2300018: Leon_kennedy:leonmesh_14
+    2300020: Leon_kennedy:leonmesh_15
+    2300022: Leon_kennedy:leonmesh_16
+    2300024: pCube3
+    2300026: pCylinder11
+    2300028: pCylinder14
+    2300030: pCylinder15
+    2300032: pCylinder16
+    2300034: pCylinder17
+    2300036: pCylinder18
+    2300038: pCylinder19
+    2300040: pCylinder20
+    2300042: pCylinder3
+    3300000: corps
+    3300002: haut
+    3300004: heure
+    3300006: horloge2:pCube1horloge
+    3300008: Leon_kennedy:leonmesh_09
+    3300010: Leon_kennedy:leonmesh_10
+    3300012: Leon_kennedy:leonmesh_11
+    3300014: Leon_kennedy:leonmesh_12
+    3300016: Leon_kennedy:leonmesh_13
+    3300018: Leon_kennedy:leonmesh_14
+    3300020: Leon_kennedy:leonmesh_15
+    3300022: Leon_kennedy:leonmesh_16
+    3300024: pCube3
+    3300026: pCylinder11
+    3300028: pCylinder14
+    3300030: pCylinder15
+    3300032: pCylinder16
+    3300034: pCylinder17
+    3300036: pCylinder18
+    3300038: pCylinder19
+    3300040: pCylinder20
+    3300042: pCylinder3
+    4300000: Leon_kennedy:leonmesh_16
+    4300002: Leon_kennedy:leonmesh_15
+    4300004: Leon_kennedy:leonmesh_14
+    4300006: Leon_kennedy:leonmesh_13
+    4300008: Leon_kennedy:leonmesh_12
+    4300010: Leon_kennedy:leonmesh_11
+    4300012: Leon_kennedy:leonmesh_10
+    4300014: Leon_kennedy:leonmesh_09
+    4300016: corps
+    4300018: haut
+    4300020: pCylinder3
+    4300022: pCylinder18
+    4300024: pCylinder19
+    4300026: pCylinder20
+    4300028: pCylinder11
+    4300030: pCylinder15
+    4300032: pCylinder16
+    4300034: pCylinder17
+    4300036: pCylinder14
+    4300038: pCube3
+    4300040: heure
+    4300042: horloge2:pCube1horloge
+    7400000: Take 001
+    9500000: //RootNode
     2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
@@ -57,7 +185,7 @@ ModelImporter:
     secondaryUVPackMargin: 4
     useFileScale: 1
     previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0

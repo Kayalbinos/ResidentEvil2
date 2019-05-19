@@ -3,6 +3,119 @@ guid: d677fe1cc27e99f4caaf453672244514
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
+    100000: Fauteuil
+    100002: fauteuil_decimated:Group22592
+    100004: fauteuil_low
+    100006: //RootNode
+    100008: leon
+    100010: Leon_kennedy:leonmesh_09
+    100012: Leon_kennedy:leonmesh_10
+    100014: Leon_kennedy:leonmesh_11
+    100016: Leon_kennedy:leonmesh_12
+    100018: Leon_kennedy:leonmesh_13
+    100020: Leon_kennedy:leonmesh_14
+    100022: Leon_kennedy:leonmesh_15
+    100024: Leon_kennedy:leonmesh_16
+    100026: polySurface1
+    100028: polySurface11
+    100030: polySurface12
+    100032: polySurface13
+    100034: polySurface2
+    100036: polySurface3
+    100038: polySurface4
+    100040: polySurface5
+    100042: polySurface6
+    100044: polySurface7
+    100046: polySurface8
+    100048: polySurface9
+    400000: Fauteuil
+    400002: fauteuil_decimated:Group22592
+    400004: fauteuil_low
+    400006: //RootNode
+    400008: leon
+    400010: Leon_kennedy:leonmesh_09
+    400012: Leon_kennedy:leonmesh_10
+    400014: Leon_kennedy:leonmesh_11
+    400016: Leon_kennedy:leonmesh_12
+    400018: Leon_kennedy:leonmesh_13
+    400020: Leon_kennedy:leonmesh_14
+    400022: Leon_kennedy:leonmesh_15
+    400024: Leon_kennedy:leonmesh_16
+    400026: polySurface1
+    400028: polySurface11
+    400030: polySurface12
+    400032: polySurface13
+    400034: polySurface2
+    400036: polySurface3
+    400038: polySurface4
+    400040: polySurface5
+    400042: polySurface6
+    400044: polySurface7
+    400046: polySurface8
+    400048: polySurface9
+    2100000: aiStandardSurface1
+    2100002: lambert1
+    2300000: Leon_kennedy:leonmesh_09
+    2300002: Leon_kennedy:leonmesh_10
+    2300004: Leon_kennedy:leonmesh_11
+    2300006: Leon_kennedy:leonmesh_12
+    2300008: Leon_kennedy:leonmesh_13
+    2300010: Leon_kennedy:leonmesh_14
+    2300012: Leon_kennedy:leonmesh_15
+    2300014: Leon_kennedy:leonmesh_16
+    2300016: polySurface1
+    2300018: polySurface11
+    2300020: polySurface12
+    2300022: polySurface13
+    2300024: polySurface2
+    2300026: polySurface3
+    2300028: polySurface4
+    2300030: polySurface5
+    2300032: polySurface6
+    2300034: polySurface7
+    2300036: polySurface8
+    2300038: polySurface9
+    3300000: Leon_kennedy:leonmesh_09
+    3300002: Leon_kennedy:leonmesh_10
+    3300004: Leon_kennedy:leonmesh_11
+    3300006: Leon_kennedy:leonmesh_12
+    3300008: Leon_kennedy:leonmesh_13
+    3300010: Leon_kennedy:leonmesh_14
+    3300012: Leon_kennedy:leonmesh_15
+    3300014: Leon_kennedy:leonmesh_16
+    3300016: polySurface1
+    3300018: polySurface11
+    3300020: polySurface12
+    3300022: polySurface13
+    3300024: polySurface2
+    3300026: polySurface3
+    3300028: polySurface4
+    3300030: polySurface5
+    3300032: polySurface6
+    3300034: polySurface7
+    3300036: polySurface8
+    3300038: polySurface9
+    4300000: Leon_kennedy:leonmesh_16
+    4300002: Leon_kennedy:leonmesh_15
+    4300004: Leon_kennedy:leonmesh_14
+    4300006: Leon_kennedy:leonmesh_13
+    4300008: Leon_kennedy:leonmesh_12
+    4300010: Leon_kennedy:leonmesh_11
+    4300012: Leon_kennedy:leonmesh_10
+    4300014: Leon_kennedy:leonmesh_09
+    4300016: polySurface1
+    4300018: polySurface2
+    4300020: polySurface3
+    4300022: polySurface4
+    4300024: polySurface5
+    4300026: polySurface6
+    4300028: polySurface8
+    4300030: polySurface9
+    4300032: polySurface11
+    4300034: polySurface13
+    4300036: polySurface12
+    4300038: polySurface7
+    9500000: //RootNode
     2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
@@ -57,7 +170,7 @@ ModelImporter:
     secondaryUVPackMargin: 4
     useFileScale: 1
     previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0

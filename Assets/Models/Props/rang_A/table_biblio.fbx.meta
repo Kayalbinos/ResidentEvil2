@@ -1,0 +1,261 @@
+fileFormatVersion: 2
+guid: 0897c0097cdbe954980ea2b333afc8a0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: coins
+    100002: coins 1
+    100004: coins 2
+    100006: coins 3
+    100008: coins1
+    100010: coins1 1
+    100012: coins1 2
+    100014: coins1 3
+    100016: coins_chelous
+    100018: coins_chelous 1
+    100020: coins_chelous 2
+    100022: coins_chelous 3
+    100024: coins_chelous 4
+    100026: coins_chelous 5
+    100028: coins_chelous 6
+    100030: coins_chelous 7
+    100032: coins_chelous 8
+    100034: coins_de_table
+    100036: cotes
+    100038: group1
+    100040: group2
+    100042: group3
+    100044: group4
+    100046: pattes
+    100048: Pied5
+    100050: Pied6
+    100052: Pied7
+    100054: Pied8
+    100056: polySurface3
+    100058: polySurface36
+    100060: polySurface54
+    100062: polySurface54 1
+    100064: polySurface54 2
+    100066: polySurface54 3
+    100068: polySurface54 4
+    100070: polySurface54 5
+    100072: polySurface54 6
+    100074: polySurface54 7
+    100076: polySurface60
+    100078: polySurface61
+    100080: polySurface62
+    100082: polySurface63
+    100084: table 1
+    100086: //RootNode
+    400000: coins
+    400002: coins 1
+    400004: coins 2
+    400006: coins 3
+    400008: coins1
+    400010: coins1 1
+    400012: coins1 2
+    400014: coins1 3
+    400016: coins_chelous
+    400018: coins_chelous 1
+    400020: coins_chelous 2
+    400022: coins_chelous 3
+    400024: coins_chelous 4
+    400026: coins_chelous 5
+    400028: coins_chelous 6
+    400030: coins_chelous 7
+    400032: coins_chelous 8
+    400034: coins_de_table
+    400036: cotes
+    400038: group1
+    400040: group2
+    400042: group3
+    400044: group4
+    400046: pattes
+    400048: Pied5
+    400050: Pied6
+    400052: Pied7
+    400054: Pied8
+    400056: polySurface3
+    400058: polySurface36
+    400060: polySurface54
+    400062: polySurface54 1
+    400064: polySurface54 2
+    400066: polySurface54 3
+    400068: polySurface54 4
+    400070: polySurface54 5
+    400072: polySurface54 6
+    400074: polySurface54 7
+    400076: polySurface60
+    400078: polySurface61
+    400080: polySurface62
+    400082: polySurface63
+    400084: table 1
+    400086: //RootNode
+    2100000: lambert3
+    2300000: coins_chelous 1
+    2300002: coins_chelous 2
+    2300004: coins_chelous 3
+    2300006: coins_chelous 4
+    2300008: coins_chelous 5
+    2300010: coins_chelous 6
+    2300012: coins_chelous 7
+    2300014: coins_chelous 8
+    2300016: Pied5
+    2300018: Pied6
+    2300020: Pied7
+    2300022: Pied8
+    2300024: polySurface3
+    2300026: polySurface36
+    2300028: polySurface54
+    2300030: polySurface54 1
+    2300032: polySurface54 2
+    2300034: polySurface54 3
+    2300036: polySurface54 4
+    2300038: polySurface54 5
+    2300040: polySurface54 6
+    2300042: polySurface54 7
+    2300044: polySurface60
+    2300046: polySurface61
+    2300048: polySurface62
+    2300050: polySurface63
+    2300052: table 1
+    3300000: coins_chelous 1
+    3300002: coins_chelous 2
+    3300004: coins_chelous 3
+    3300006: coins_chelous 4
+    3300008: coins_chelous 5
+    3300010: coins_chelous 6
+    3300012: coins_chelous 7
+    3300014: coins_chelous 8
+    3300016: Pied5
+    3300018: Pied6
+    3300020: Pied7
+    3300022: Pied8
+    3300024: polySurface3
+    3300026: polySurface36
+    3300028: polySurface54
+    3300030: polySurface54 1
+    3300032: polySurface54 2
+    3300034: polySurface54 3
+    3300036: polySurface54 4
+    3300038: polySurface54 5
+    3300040: polySurface54 6
+    3300042: polySurface54 7
+    3300044: polySurface60
+    3300046: polySurface61
+    3300048: polySurface62
+    3300050: polySurface63
+    3300052: table 1
+    4300000: table
+    4300002: polySurface61
+    4300004: polySurface62
+    4300006: polySurface60
+    4300008: polySurface36
+    4300010: Pied6
+    4300012: Pied5
+    4300014: Pied8
+    4300016: Pied7
+    4300018: polySurface63
+    4300020: polySurface3
+    4300022: coins_chelous
+    4300024: polySurface54
+    4300026: coins_chelous
+    4300028: polySurface54
+    4300030: coins_chelous
+    4300032: polySurface54
+    4300034: coins_chelous
+    4300036: polySurface54
+    4300038: coins_chelous
+    4300040: polySurface54
+    4300042: coins_chelous
+    4300044: polySurface54
+    4300046: coins_chelous
+    4300048: polySurface54
+    4300050: coins_chelous
+    4300052: polySurface54
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

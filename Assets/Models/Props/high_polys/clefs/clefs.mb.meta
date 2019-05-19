@@ -3,6 +3,134 @@ guid: 86d90869b5ece4a4bb3289501baa0c54
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
+    100000: clef_low
+    100002: clef_une_decimated:Group48561
+    100004: //RootNode
+    100006: leon
+    100008: Leon_kennedy:leonmesh_09
+    100010: Leon_kennedy:leonmesh_10
+    100012: Leon_kennedy:leonmesh_11
+    100014: Leon_kennedy:leonmesh_12
+    100016: Leon_kennedy:leonmesh_13
+    100018: Leon_kennedy:leonmesh_14
+    100020: Leon_kennedy:leonmesh_15
+    100022: Leon_kennedy:leonmesh_16
+    100024: pCube2
+    100026: pCube4
+    100028: pCube5
+    100030: pCube8
+    100032: pCylinder1
+    100034: polySurface1
+    100036: polySurface2
+    100038: polySurface3
+    100040: polySurface4
+    100042: polySurface5
+    100044: polySurface6
+    100046: pPipe1
+    100048: pPipe2
+    100050: pPipe3
+    400000: clef_low
+    400002: clef_une_decimated:Group48561
+    400004: //RootNode
+    400006: leon
+    400008: Leon_kennedy:leonmesh_09
+    400010: Leon_kennedy:leonmesh_10
+    400012: Leon_kennedy:leonmesh_11
+    400014: Leon_kennedy:leonmesh_12
+    400016: Leon_kennedy:leonmesh_13
+    400018: Leon_kennedy:leonmesh_14
+    400020: Leon_kennedy:leonmesh_15
+    400022: Leon_kennedy:leonmesh_16
+    400024: pCube2
+    400026: pCube4
+    400028: pCube5
+    400030: pCube8
+    400032: pCylinder1
+    400034: polySurface1
+    400036: polySurface2
+    400038: polySurface3
+    400040: polySurface4
+    400042: polySurface5
+    400044: polySurface6
+    400046: pPipe1
+    400048: pPipe2
+    400050: pPipe3
+    2100000: Leon_kennedy_leonmesh_08
+    2100002: Leon_kennedy_leonmesh_07
+    2100004: Leon_kennedy_leonmesh_06
+    2100006: Leon_kennedy_leonmesh_05
+    2100008: Leon_kennedy_leonmesh_04
+    2100010: Leon_kennedy_leonmesh_03
+    2100012: Leon_kennedy_leonmesh_02
+    2100014: Leon_kennedy_leonmesh_01
+    2100016: lambert1
+    2300000: Leon_kennedy:leonmesh_09
+    2300002: Leon_kennedy:leonmesh_10
+    2300004: Leon_kennedy:leonmesh_11
+    2300006: Leon_kennedy:leonmesh_12
+    2300008: Leon_kennedy:leonmesh_13
+    2300010: Leon_kennedy:leonmesh_14
+    2300012: Leon_kennedy:leonmesh_15
+    2300014: Leon_kennedy:leonmesh_16
+    2300016: pCube2
+    2300018: pCube4
+    2300020: pCube5
+    2300022: pCube8
+    2300024: pCylinder1
+    2300026: polySurface1
+    2300028: polySurface2
+    2300030: polySurface3
+    2300032: polySurface4
+    2300034: polySurface5
+    2300036: polySurface6
+    2300038: pPipe1
+    2300040: pPipe2
+    2300042: pPipe3
+    3300000: Leon_kennedy:leonmesh_09
+    3300002: Leon_kennedy:leonmesh_10
+    3300004: Leon_kennedy:leonmesh_11
+    3300006: Leon_kennedy:leonmesh_12
+    3300008: Leon_kennedy:leonmesh_13
+    3300010: Leon_kennedy:leonmesh_14
+    3300012: Leon_kennedy:leonmesh_15
+    3300014: Leon_kennedy:leonmesh_16
+    3300016: pCube2
+    3300018: pCube4
+    3300020: pCube5
+    3300022: pCube8
+    3300024: pCylinder1
+    3300026: polySurface1
+    3300028: polySurface2
+    3300030: polySurface3
+    3300032: polySurface4
+    3300034: polySurface5
+    3300036: polySurface6
+    3300038: pPipe1
+    3300040: pPipe2
+    3300042: pPipe3
+    4300000: Leon_kennedy:leonmesh_16
+    4300002: Leon_kennedy:leonmesh_15
+    4300004: Leon_kennedy:leonmesh_14
+    4300006: Leon_kennedy:leonmesh_13
+    4300008: Leon_kennedy:leonmesh_12
+    4300010: Leon_kennedy:leonmesh_11
+    4300012: Leon_kennedy:leonmesh_10
+    4300014: Leon_kennedy:leonmesh_09
+    4300016: pPipe2
+    4300018: pCube8
+    4300020: pCube4
+    4300022: pPipe3
+    4300024: pCube5
+    4300026: pCylinder1
+    4300028: pPipe1
+    4300030: pCube2
+    4300032: polySurface1
+    4300034: polySurface2
+    4300036: polySurface3
+    4300038: polySurface4
+    4300040: polySurface5
+    4300042: polySurface6
+    9500000: //RootNode
     2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
@@ -57,7 +185,7 @@ ModelImporter:
     secondaryUVPackMargin: 4
     useFileScale: 1
     previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
